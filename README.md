@@ -10,3 +10,11 @@ We will use K-Means Clustering Algorithm to classify tracks into similar cluster
 ### Results
 ![3D Representation](https://github.com/josh-truong/spotify-kmeans/blob/main/demo.png)
 ![2D Representation](https://github.com/josh-truong/spotify-kmeans/blob/main/PCA%202D%20Clusters.png)
+
+[Cluster 0](https://open.spotify.com/playlist/3C6QUaAMJQwwkBPZSxYMR7)
+[Cluster 1](https://open.spotify.com/playlist/0lewEz46HxvvsrqrMqvxZ0)
+[Cluster 2](https://open.spotify.com/playlist/15XASDIJAv1biPeHVqMZ8y)
+[Cluster 3](https://open.spotify.com/playlist/5cSwYfTJmdHrJtDZGrt4PQ)
+[Cluster 4](https://open.spotify.com/playlist/5RjAESsCLVwY7qE2h0gQuE)
+[Cluster 5](https://open.spotify.com/playlist/70MkJHozNry5wQM9ah5hMu)
+[Cluster 6](https://open.spotify.com/playlist/2FTjPcYvq7k4HBhz61BKKt)

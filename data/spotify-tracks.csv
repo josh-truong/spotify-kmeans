@@ -1,0 +1,381 @@
+track_name,artist_name,id,url,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence
+Victory,Two Steps from Hell,2F9xBxKbx2M0pbgtSu8fLf,https://api.spotify.com/v1/tracks/2F9xBxKbx2M0pbgtSu8fLf,0.00903,0.503,0.917,0.326,0.162,-6.111,0.0649,119.993,0.266
+Heart of Courage,Thomas Bergersen,4JtvyWkWQTPVcroZf8JJkp,https://api.spotify.com/v1/tracks/4JtvyWkWQTPVcroZf8JJkp,0.511,0.403,0.591,0.896,0.108,-8.126,0.0514,135.047,0.192
+Strength of a Thousand Men,Thomas Bergersen,3GJZLvGXaVszYdSBLMtJFX,https://api.spotify.com/v1/tracks/3GJZLvGXaVszYdSBLMtJFX,0.0962,0.478,0.906,0.919,0.115,-6.781,0.0419,140.021,0.59
+Blackheart,Thomas Bergersen,2jn89xTHIVsy167uOmAewt,https://api.spotify.com/v1/tracks/2jn89xTHIVsy167uOmAewt,0.0945,0.136,0.462,0.936,0.119,-10.982,0.0367,161.073,0.112
+Star Sky,Two Steps from Hell,06AMpcajziFnEKniV25fiU,https://api.spotify.com/v1/tracks/06AMpcajziFnEKniV25fiU,0.00997,0.443,0.822,0.107,0.0889,-5.656,0.0508,130.055,0.361
+Protectors of the Earth,Thomas Bergersen,1YtHpYEbbfQQIyxXkdxEoW,https://api.spotify.com/v1/tracks/1YtHpYEbbfQQIyxXkdxEoW,0.0395,0.441,0.934,0.96,0.15,-6.766,0.0482,109.98,0.374
+Impossible,Thomas Bergersen,29gW6N4TtGhpkYmYwhRvDL,https://api.spotify.com/v1/tracks/29gW6N4TtGhpkYmYwhRvDL,0.0608,0.166,0.786,0.947,0.0878,-7.261,0.0531,180.12,0.313
+Archangel,Thomas Bergersen,3pTNVDJpzaLxiZnbC18SMX,https://api.spotify.com/v1/tracks/3pTNVDJpzaLxiZnbC18SMX,0.244,0.427,0.968,0.864,0.121,-4.517,0.0574,79.989,0.358
+Never Back Down,Two Steps from Hell,4boaU9XaS1g6U1nV4lEsMl,https://api.spotify.com/v1/tracks/4boaU9XaS1g6U1nV4lEsMl,0.461,0.545,0.709,0.938,0.119,-6.825,0.0347,115.048,0.165
+Invincible,Two Steps from Hell,0Z7VY2YzJdYThjXcMrH9Gh,https://api.spotify.com/v1/tracks/0Z7VY2YzJdYThjXcMrH9Gh,0.00128,0.412,0.778,0.732,0.0753,-7.776,0.033,89.997,0.307
+Evergreen,Two Steps from Hell,5ac6fzdjXA8kPXkLSKARtz,https://api.spotify.com/v1/tracks/5ac6fzdjXA8kPXkLSKARtz,0.225,0.417,0.822,0.889,0.0593,-7.981,0.145,149.968,0.243
+Dragon Rider,Thomas Bergersen,0G8iyOJFQ8Wvm4Fe6xjQdr,https://api.spotify.com/v1/tracks/0G8iyOJFQ8Wvm4Fe6xjQdr,0.000389,0.404,0.872,0.839,0.132,-8.72,0.0386,159.953,0.86
+Flight Of The Silverbird,Two Steps from Hell,2k2Pwkt3Fqowcve91PiH4g,https://api.spotify.com/v1/tracks/2k2Pwkt3Fqowcve91PiH4g,0.00182,0.415,0.922,0.854,0.0888,-7.043,0.0819,138.086,0.226
+Freedom Fighters,Thomas Bergersen,1gjUBLiGk3MdFksH3aRMax,https://api.spotify.com/v1/tracks/1gjUBLiGk3MdFksH3aRMax,0.00573,0.315,0.422,0.94,0.11,-12.209,0.0389,119.877,0.0386
+Stallion,Two Steps from Hell,5Z0WctSOAlA7yyMl4rxQMf,https://api.spotify.com/v1/tracks/5Z0WctSOAlA7yyMl4rxQMf,0.118,0.259,0.688,0.794,0.141,-8.011,0.0418,88.917,0.335
+El Dorado,Thomas Bergersen,4o0sJFXHckKlBhhynZsSIg,https://api.spotify.com/v1/tracks/4o0sJFXHckKlBhhynZsSIg,0.0986,0.465,0.798,0.864,0.167,-8.449,0.0429,94.008,0.364
+None Shall Live,Two Steps from Hell,6tRXfCfNdcAMICHdQerIuu,https://api.spotify.com/v1/tracks/6tRXfCfNdcAMICHdQerIuu,0.00124,0.465,0.879,0.831,0.306,-6.155,0.0534,110.028,0.173
+To Glory,Thomas Bergersen,4qxQreMZwLWqfrD9e2dZoz,https://api.spotify.com/v1/tracks/4qxQreMZwLWqfrD9e2dZoz,0.022,0.36,0.918,0.92,0.274,-8.996,0.109,104.976,0.289
+Enchantress,Two Steps from Hell,1F2La2WnQKJKLWy2VuT5WO,https://api.spotify.com/v1/tracks/1F2La2WnQKJKLWy2VuT5WO,0.434,0.32,0.552,0.921,0.068,-6.493,0.0316,140.044,0.0944
+United We Stand - Divided We Fall,Thomas Bergersen,2ZssT3XEX1cObqahy9YrQM,https://api.spotify.com/v1/tracks/2ZssT3XEX1cObqahy9YrQM,0.0077,0.388,0.901,0.385,0.119,-6.846,0.122,169.985,0.146
+Never Give up on Your Dreams,Thomas Bergersen,27l2hfl85KUIK9z6N8dNUP,https://api.spotify.com/v1/tracks/27l2hfl85KUIK9z6N8dNUP,0.0202,0.444,0.939,0.89,0.0873,-7.267,0.0768,140.012,0.214
+Undying Love,Thomas Bergersen,1j7GxBZfaXszszNvbQuL7u,https://api.spotify.com/v1/tracks/1j7GxBZfaXszszNvbQuL7u,0.767,0.109,0.448,0.808,0.143,-10.181,0.0316,83.01,0.0859
+Unbreakable,Two Steps from Hell,2LNaHOlGadVUkhiIUwc5Bs,https://api.spotify.com/v1/tracks/2LNaHOlGadVUkhiIUwc5Bs,0.00175,0.38,0.879,0.868,0.089,-5.099,0.0545,140.003,0.0724
+Magic of Love,Thomas Bergersen,7K6ZGai4neYqHuFSqX2jSb,https://api.spotify.com/v1/tracks/7K6ZGai4neYqHuFSqX2jSb,0.201,0.401,0.496,0.906,0.205,-10.439,0.0286,89.991,0.123
+Unforgiven,Two Steps from Hell,0Ib9P2lSlqC6F2xCr5PcOI,https://api.spotify.com/v1/tracks/0Ib9P2lSlqC6F2xCr5PcOI,0.236,0.456,0.698,0.913,0.0877,-8.403,0.0323,109.95,0.577
+High C's,Two Steps from Hell,7cWFCRC9iuVBMldmdhzjZP,https://api.spotify.com/v1/tracks/7cWFCRC9iuVBMldmdhzjZP,0.647,0.252,0.668,0.964,0.132,-5.906,0.0344,127.038,0.323
+Winterspell,Thomas Bergersen,5n4dHCWjvGJtuFSZIyeqWp,https://api.spotify.com/v1/tracks/5n4dHCWjvGJtuFSZIyeqWp,0.425,0.232,0.871,0.971,0.0474,-8.761,0.149,92.268,0.174
+Secret Melody,Thomas Bergersen,4FvOXcUhFu2RVyfxq1gJgH,https://api.spotify.com/v1/tracks/4FvOXcUhFu2RVyfxq1gJgH,0.917,0.57,0.487,0.978,0.14,-9.273,0.0322,115.021,0.476
+Colin Frake,Two Steps from Hell,16JkANrD41BxKgTfSjB9Tm,https://api.spotify.com/v1/tracks/16JkANrD41BxKgTfSjB9Tm,0.819,0.255,0.293,0.846,0.109,-10.464,0.0311,139.979,0.163
+Pegasus,Two Steps from Hell,6P61vGO4oL9oGQbVPzon8Q,https://api.spotify.com/v1/tracks/6P61vGO4oL9oGQbVPzon8Q,0.148,0.298,0.692,0.832,0.143,-9.075,0.0529,172.384,0.164
+Birth of a Hero,Thomas Bergersen,6TTI5gNPuQZ0a2nAt4v8cN,https://api.spotify.com/v1/tracks/6TTI5gNPuQZ0a2nAt4v8cN,0.569,0.41,0.531,0.627,0.0546,-7.018,0.0353,125.061,0.1
+Emerald Princess,Two Steps from Hell,3Lsxzkhu8U9hTApMjTrCzm,https://api.spotify.com/v1/tracks/3Lsxzkhu8U9hTApMjTrCzm,0.00681,0.385,0.8,0.131,0.0443,-6.074,0.061,128.04,0.0903
+Lost in Las Vegas,Two Steps from Hell,7wdYb60ksflUhqa3dpWwY1,https://api.spotify.com/v1/tracks/7wdYb60ksflUhqa3dpWwY1,0.175,0.709,0.723,0.851,0.0535,-6.086,0.0281,119.994,0.216
+Run Free,Thomas Bergersen,38frEzNCL3xoWG2ny1bKgu,https://api.spotify.com/v1/tracks/38frEzNCL3xoWG2ny1bKgu,0.259,0.483,0.804,0.888,0.127,-9.184,0.0808,89.969,0.173
+Mercy in Darkness,Nick Phoenix,6F5uMdLMXy1z6vvMKixC21,https://api.spotify.com/v1/tracks/6F5uMdLMXy1z6vvMKixC21,0.85,0.193,0.252,0.922,0.113,-14.677,0.0302,106.27,0.126
+Nighthawk,Two Steps from Hell,5NLgZZRvX2RKIEFQrPez24,https://api.spotify.com/v1/tracks/5NLgZZRvX2RKIEFQrPez24,0.251,0.354,0.62,0.349,0.115,-7.815,0.0352,133.184,0.122
+SkyWorld,Thomas Bergersen,1PdmMZoKB3lUyihCR37eUL,https://api.spotify.com/v1/tracks/1PdmMZoKB3lUyihCR37eUL,0.258,0.544,0.883,0.622,0.102,-8.79,0.0391,151.006,0.413
+Unleashed,Thomas Bergersen,1l2g97tNnO52U1IS0y9GRL,https://api.spotify.com/v1/tracks/1l2g97tNnO52U1IS0y9GRL,0.55,0.312,0.497,0.945,0.0802,-8.389,0.0367,102.916,0.0585
+Compass,Two Steps from Hell,2LZQL0DctyP7L5h3QnnP2s,https://api.spotify.com/v1/tracks/2LZQL0DctyP7L5h3QnnP2s,0.759,0.211,0.382,0.941,0.0812,-11.942,0.0317,144.014,0.102
+Race to Durango,Two Steps from Hell,7EvkzDRYiShZsY0Gt8JrJv,https://api.spotify.com/v1/tracks/7EvkzDRYiShZsY0Gt8JrJv,0.146,0.458,0.634,0.915,0.0484,-7.335,0.0356,117.002,0.444
+Breathe,Thomas Bergersen,23TXSzmuErPA3CAPsE2bme,https://api.spotify.com/v1/tracks/23TXSzmuErPA3CAPsE2bme,0.267,0.378,0.565,0.903,0.105,-10.103,0.0369,102.988,0.115
+Jump!,Thomas Bergersen,6cnJNLZoOYaMX9ZK4x5MPM,https://api.spotify.com/v1/tracks/6cnJNLZoOYaMX9ZK4x5MPM,0.00304,0.517,0.747,0.924,0.106,-7.7,0.0303,135.024,0.318
+Wild Heart,Thomas Bergersen,4bUlbTG0wlyBLb7pIfZzLa,https://api.spotify.com/v1/tracks/4bUlbTG0wlyBLb7pIfZzLa,0.206,0.367,0.464,0.939,0.0719,-9.157,0.0393,120.011,0.093
+Bravestone,Two Steps from Hell,1GMfOx8IyUnQz4SX1Mhqlo,https://api.spotify.com/v1/tracks/1GMfOx8IyUnQz4SX1Mhqlo,0.00884,0.347,0.82,0.916,0.118,-6.251,0.0563,104.933,0.114
+For the Win,Thomas Bergersen,34x22hY9CKf3ZoPjQwZSgc,https://api.spotify.com/v1/tracks/34x22hY9CKf3ZoPjQwZSgc,0.0627,0.453,0.928,0.907,0.0605,-7.773,0.062,116.97,0.304
+Sons of War,Thomas Bergersen,05hLYeNT8mZeSmKJMMU2w1,https://api.spotify.com/v1/tracks/05hLYeNT8mZeSmKJMMU2w1,0.0182,0.446,0.975,0.923,0.302,-6.726,0.0327,80.015,0.226
+Aeterna,Two Steps from Hell,49cmnghHGvzTk272gZOR36,https://api.spotify.com/v1/tracks/49cmnghHGvzTk272gZOR36,0.114,0.468,0.713,0.805,0.111,-11.861,0.046,120.018,0.0314
+My Freedom,Two Steps from Hell,3MrGJxDOrc8rhTXMlt0qcE,https://api.spotify.com/v1/tracks/3MrGJxDOrc8rhTXMlt0qcE,0.333,0.444,0.661,0.937,0.175,-6.931,0.0291,96.109,0.161
+Dragon,Two Steps from Hell,4wnLWNl08ugaU7PbenbQ4f,https://api.spotify.com/v1/tracks/4wnLWNl08ugaU7PbenbQ4f,0.018,0.333,0.765,0.0108,0.103,-8.483,0.0793,134.033,0.04
+Armada,Thomas Bergersen,3Et9byLSV8GS5okWLRQL8L,https://api.spotify.com/v1/tracks/3Et9byLSV8GS5okWLRQL8L,0.277,0.443,0.852,0.922,0.129,-10.456,0.0937,78.061,0.151
+"SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",DJ Snake,6IPNp9PfaEqrzotY47TIWy,https://api.spotify.com/v1/tracks/6IPNp9PfaEqrzotY47TIWy,0.00406,0.8,0.837,0.00313,0.0904,-2.807,0.0491,100.015,0.702
+LALISA,LISA,10BfqdiV5PhV1UYsMEyou1,https://api.spotify.com/v1/tracks/10BfqdiV5PhV1UYsMEyou1,0.0267,0.804,0.652,0.000782,0.118,-6.282,0.0898,150.076,0.854
+MONEY,LISA,7hU3IHwjX150XLoTVmjD0q,https://api.spotify.com/v1/tracks/7hU3IHwjX150XLoTVmjD0q,0.161,0.831,0.554,6.12E-05,0.152,-9.998,0.218,140.026,0.396
+How You Like That,BLACKPINK,6y6k14YN6MbKpGIv1Rk00Q,https://api.spotify.com/v1/tracks/6y6k14YN6MbKpGIv1Rk00Q,0.0694,0.828,0.782,3.41E-05,0.0544,-4.014,0.0918,130.013,0.351
+Lovesick Girls,BLACKPINK,4Vhvlhomv8fTp2e6I4XTpe,https://api.spotify.com/v1/tracks/4Vhvlhomv8fTp2e6I4XTpe,0.00513,0.658,0.732,0,0.13,-4.762,0.0654,127.995,0.409
+DDU-DU DDU-DU,BLACKPINK,7b8YOVV5quZcSKEijDgyWB,https://api.spotify.com/v1/tracks/7b8YOVV5quZcSKEijDgyWB,0.0313,0.671,0.859,0,0.267,-3.922,0.0833,139.931,0.39
+Kill This Love,BLACKPINK,0M98PvIvx7vZ8LDpzMw1hB,https://api.spotify.com/v1/tracks/0M98PvIvx7vZ8LDpzMw1hB,0.318,0.738,0.861,0.00182,0.325,-4.141,0.237,131.98,0.58
+SOLO,JENNIE,2XIaetAZTyR7oQfHh8DZ2B,https://api.spotify.com/v1/tracks/2XIaetAZTyR7oQfHh8DZ2B,0.0861,0.752,0.642,0,0.0953,-5.165,0.0869,95.043,0.388
+BOOMBAYAH,BLACKPINK,3yHQKddM8SVCRnuPSo3HPN,https://api.spotify.com/v1/tracks/3yHQKddM8SVCRnuPSo3HPN,0.00264,0.658,0.836,1.02E-06,0.507,-3.282,0.0549,124.969,0.387
+On The Ground,ROSÉ,2pn8dNVSpYnAtlKFC8Q0DJ,https://api.spotify.com/v1/tracks/2pn8dNVSpYnAtlKFC8Q0DJ,0.0174,0.311,0.607,0,0.131,-6.578,0.11,188.7,0.286
+PLAYING WITH FIRE,BLACKPINK,7e7VjLxO5xJINHvnRytrqi,https://api.spotify.com/v1/tracks/7e7VjLxO5xJINHvnRytrqi,0.0399,0.707,0.758,0,0.141,-4.511,0.0917,97.037,0.674
+Gone,ROSÉ,2dHoVW9AxJVSRebPRyV2aA,https://api.spotify.com/v1/tracks/2dHoVW9AxJVSRebPRyV2aA,0.594,0.647,0.377,0,0.0768,-6.003,0.0375,79.936,0.653
+As If It's Your Last,BLACKPINK,1Zyd6zQnC6XIIzmg3hP7Ot,https://api.spotify.com/v1/tracks/1Zyd6zQnC6XIIzmg3hP7Ot,0.0688,0.786,0.853,0,0.0759,-2.687,0.0816,125.034,0.45
+WHISTLE,BLACKPINK,7HWmJ1wBecOAMNGjC6SmKE,https://api.spotify.com/v1/tracks/7HWmJ1wBecOAMNGjC6SmKE,0.00682,0.822,0.712,0,0.0955,-4.877,0.15,102.874,0.647
+Don't Know What To Do,BLACKPINK,7ibZWzytUh41z5ycK2I5N8,https://api.spotify.com/v1/tracks/7ibZWzytUh41z5ycK2I5N8,0.0992,0.628,0.64,0,0.138,-4.164,0.0491,129.815,0.409
+You Never Know,BLACKPINK,1b0PG9Zd1HhOwq3n9QNkDg,https://api.spotify.com/v1/tracks/1b0PG9Zd1HhOwq3n9QNkDg,0.227,0.527,0.462,0,0.164,-5.504,0.0494,144.573,0.334
+Sour Candy (with BLACKPINK),Lady Gaga,6R6ZoHTypt5lt68MWbzZXv,https://api.spotify.com/v1/tracks/6R6ZoHTypt5lt68MWbzZXv,0.0604,0.752,0.87,1.12E-05,0.489,-3.812,0.0623,120.006,0.784
+Forever Young,BLACKPINK,2naEVOadudtXHwtZNfjMDM,https://api.spotify.com/v1/tracks/2naEVOadudtXHwtZNfjMDM,0.0423,0.592,0.961,0,0.0882,-1.807,0.096,109.826,0.508
+Kick It,BLACKPINK,6MN6oiT2d7qxYEOwXwgV34,https://api.spotify.com/v1/tracks/6MN6oiT2d7qxYEOwXwgV34,0.0156,0.765,0.787,0,0.0736,-3.647,0.0445,124.949,0.381
+Really,BLACKPINK,2r5oD7twaQTsv5KoRS6v16,https://api.spotify.com/v1/tracks/2r5oD7twaQTsv5KoRS6v16,0.0235,0.696,0.881,0,0.277,-2.082,0.104,142.019,0.947
+BOOMBAYAH - Japanese Version,BLACKPINK,5nIjOnMbC0QDMrYFLGx0yV,https://api.spotify.com/v1/tracks/5nIjOnMbC0QDMrYFLGx0yV,0.0225,0.748,0.868,4.85E-06,0.367,-2.296,0.0533,124.952,0.513
+DDU-DU DDU-DU - Live,BLACKPINK,69Bi7veKMrb2mRq00HkRyO,https://api.spotify.com/v1/tracks/69Bi7veKMrb2mRq00HkRyO,0.0184,0.55,0.901,5.07E-06,0.368,-4.635,0.228,139.916,0.359
+STAY,BLACKPINK,4TWHREp4wv0TmewqR6rgRd,https://api.spotify.com/v1/tracks/4TWHREp4wv0TmewqR6rgRd,0.569,0.628,0.433,7.71E-06,0.104,-6.808,0.0383,88.074,0.343
+DDU-DU DDU-DU - Japanese Version,BLACKPINK,4jUEHIrc443f743JbyLN0y,https://api.spotify.com/v1/tracks/4jUEHIrc443f743JbyLN0y,0.0296,0.703,0.845,0,0.213,-3.479,0.0682,139.936,0.428
+See U Later,BLACKPINK,3AyLh4R4D3fQfyqCsTdFf3,https://api.spotify.com/v1/tracks/3AyLh4R4D3fQfyqCsTdFf3,0.0376,0.74,0.926,0,0.582,-3.965,0.112,106.987,0.571
+DDU-DU DDU-DU (Remix),BLACKPINK,0NdEvupVBxG5zyVLGtpJpg,https://api.spotify.com/v1/tracks/0NdEvupVBxG5zyVLGtpJpg,0.0341,0.68,0.906,7.83E-05,0.077,-6.195,0.0734,145.05,0.68
+WHISTLE - Acoustic Ver.,BLACKPINK,0doLJjIDrYkoXDb4b9Qa8n,https://api.spotify.com/v1/tracks/0doLJjIDrYkoXDb4b9Qa8n,0.832,0.842,0.453,0,0.0932,-5.942,0.0391,103.038,0.647
+Hope Not,BLACKPINK,6euC2yxyQA6uztolUYnhiW,https://api.spotify.com/v1/tracks/6euC2yxyQA6uztolUYnhiW,0.441,0.556,0.423,0,0.0867,-4.998,0.0274,110.086,0.179
+FOREVER YOUNG - Japanese Version,BLACKPINK,02h4inVwwNX1cMuGCDtsgV,https://api.spotify.com/v1/tracks/02h4inVwwNX1cMuGCDtsgV,0.0868,0.628,0.967,1.12E-06,0.0589,-1.134,0.0569,110.072,0.463
+SEE U LATER - Japanese Version,BLACKPINK,7IS4NciwYPs1wMywOKx69z,https://api.spotify.com/v1/tracks/7IS4NciwYPs1wMywOKx69z,0.0322,0.774,0.907,0,0.508,-3.799,0.114,107.005,0.659
+REALLY - Japanese Version,BLACKPINK,6OKXcx7tClGAS0o2cOTl2v,https://api.spotify.com/v1/tracks/6OKXcx7tClGAS0o2cOTl2v,0.0255,0.715,0.876,0,0.281,-2.361,0.101,142.034,0.948
+Ice Cream (with Selena Gomez),BLACKPINK,60jpDubMmVyR5molJp2TCm,https://api.spotify.com/v1/tracks/60jpDubMmVyR5molJp2TCm,0.0305,0.791,0.733,0.000169,0.0423,-3.852,0.35,159.974,0.913
+Love To Hate Me,BLACKPINK,09JE599HkmbidwGWyD4ZGy,https://api.spotify.com/v1/tracks/09JE599HkmbidwGWyD4ZGy,0.0365,0.689,0.656,0,0.136,-4.532,0.143,162.269,0.623
+Crazy Over You,BLACKPINK,4yOqfpzmL4FvmXJTUgAMUP,https://api.spotify.com/v1/tracks/4yOqfpzmL4FvmXJTUgAMUP,0.0367,0.805,0.66,6.40E-05,0.215,-5.342,0.0582,114.954,0.617
+Pretty Savage,BLACKPINK,1XnpzbOGptRwfJhZgLbmSr,https://api.spotify.com/v1/tracks/1XnpzbOGptRwfJhZgLbmSr,0.00886,0.701,0.556,0.000122,0.106,-7.42,0.0414,152.045,0.333
+Bet You Wanna (feat. Cardi B),BLACKPINK,1hPkiovjTqiJAJen4uyNRg,https://api.spotify.com/v1/tracks/1hPkiovjTqiJAJen4uyNRg,0.00479,0.541,0.688,0,0.0733,-5.184,0.198,109.843,0.649
+Panini,Lil Nas X,1000nHvUdawXuUHgBod4Wv,https://api.spotify.com/v1/tracks/1000nHvUdawXuUHgBod4Wv,0.342,0.703,0.594,0,0.123,-6.146,0.0752,153.848,0.475
+Ocean,Parachute,1nFJAKHt0jgzVogbNJT3Zz,https://api.spotify.com/v1/tracks/1nFJAKHt0jgzVogbNJT3Zz,0.0686,0.662,0.711,1.17E-05,0.085,-4.924,0.0279,119.989,0.352
+tomorrow tonight,Loote,4vsAUbPb6q9FpC4AGBFdVh,https://api.spotify.com/v1/tracks/4vsAUbPb6q9FpC4AGBFdVh,0.134,0.32,0.5,0,0.108,-7.979,0.0994,91.361,0.142
+Lanterns,Xomu,4sYI13LMsxY1DfSRXGxqUv,https://api.spotify.com/v1/tracks/4sYI13LMsxY1DfSRXGxqUv,0.187,0.7,0.929,0.314,0.309,-1.979,0.0397,128.046,0.291
+Papaoutai,Stromae,34dx8DACTJsc3rsJdaEIQw,https://api.spotify.com/v1/tracks/34dx8DACTJsc3rsJdaEIQw,0.0266,0.734,0.809,0,0.0642,-7.264,0.0839,116.024,0.254
+boba,eevee,0MKyVIjlJMw0fq8iS8I74B,https://api.spotify.com/v1/tracks/0MKyVIjlJMw0fq8iS8I74B,0.333,0.802,0.604,0.868,0.119,-9.273,0.0894,87.986,0.719
+Move Up (Lost Gravity),Mr. Polska,7nv8yYS0r5p0FUP7hlUOyY,https://api.spotify.com/v1/tracks/7nv8yYS0r5p0FUP7hlUOyY,0.0784,0.466,0.827,0.122,0.0966,-4.809,0.0392,120.01,0.258
+Stand Out Fit In,ONE OK ROCK,4zXRMjTaeflesB3Ih4eHnJ,https://api.spotify.com/v1/tracks/4zXRMjTaeflesB3Ih4eHnJ,0.0178,0.615,0.841,0,0.133,-5.352,0.0416,126.026,0.316
+Miss You,PIKASONIC,6xdzj9CiF34j39pqnHVjuS,https://api.spotify.com/v1/tracks/6xdzj9CiF34j39pqnHVjuS,0.0936,0.737,0.903,0.0782,0.366,-6.372,0.0416,109.008,0.652
+Ego,Willy William,4bHDRYnbE4KyVZ7moHBHnu,https://api.spotify.com/v1/tracks/4bHDRYnbE4KyVZ7moHBHnu,0.374,0.787,0.778,0.000823,0.359,-5.428,0.0456,99.994,0.477
+Light It Up - Remix,Major Lazer,500mvzh7TRZ0YdnVeHhj8b,https://api.spotify.com/v1/tracks/500mvzh7TRZ0YdnVeHhj8b,0.0375,0.747,0.877,0.000833,0.233,-3.782,0.0664,107.991,0.752
+Pagoda,Xomu,5UVVmTzU6MTFy91KMr4SMd,https://api.spotify.com/v1/tracks/5UVVmTzU6MTFy91KMr4SMd,0.00945,0.7,0.847,0.00947,0.0883,-4.427,0.0616,120.016,0.289
+Dreaming Alone,Against The Current,3lbtBnZlPTSlcQjgvUGsmu,https://api.spotify.com/v1/tracks/3lbtBnZlPTSlcQjgvUGsmu,0.0685,0.638,0.664,0,0.117,-6.58,0.0369,144.955,0.411
+Fearless Pt. II,Lost Sky,4VZH6OfxPy1nNE7KbtVKyK,https://api.spotify.com/v1/tracks/4VZH6OfxPy1nNE7KbtVKyK,0.282,0.729,0.928,0.00147,0.12,-4.279,0.0515,109.996,0.322
+Kuyenda,Lennart Schroot,3fbdrl4iGNNizsJnFNS2Jv,https://api.spotify.com/v1/tracks/3fbdrl4iGNNizsJnFNS2Jv,0.00977,0.525,0.83,0.598,0.0876,-5.727,0.0372,155.042,0.17
+Mama (feat. Ellie Goulding),Clean Bandit,3WDIhWoRWVcaHdRwMEHkkS,https://api.spotify.com/v1/tracks/3WDIhWoRWVcaHdRwMEHkkS,0.225,0.737,0.714,3.79E-06,0.267,-6.138,0.0367,102.046,0.608
+Je danse encore,Bilal Hassani,0iUYpOGEUz7apdotDMKqiO,https://api.spotify.com/v1/tracks/0iUYpOGEUz7apdotDMKqiO,0.37,0.664,0.629,0,0.102,-6.696,0.0426,96.977,0.596
+On écrit sur les murs,Kids United,5LaNypZh0fQMMy70pClm8d,https://api.spotify.com/v1/tracks/5LaNypZh0fQMMy70pClm8d,0.402,0.67,0.794,0,0.371,-6.601,0.0377,120.048,0.596
+Waste It On Me - Cheat Codes Remix,Steve Aoki,0ld1ZvjtGHQFGjzelGuD2G,https://api.spotify.com/v1/tracks/0ld1ZvjtGHQFGjzelGuD2G,0.0169,0.698,0.855,0,0.371,-4.595,0.13,108.949,0.576
+Stay - Jonas Blue Remix,Zedd,3qwQ3PEudWSXRaWbsJUUx5,https://api.spotify.com/v1/tracks/3qwQ3PEudWSXRaWbsJUUx5,0.0096,0.763,0.846,0.00803,0.0403,-4.545,0.0468,125.009,0.564
+Way Back Home (feat. Conor Maynard) - Sam Feldt Edit,SHAUN,1ZLrDPgR7mvuTco3rQK8Pk,https://api.spotify.com/v1/tracks/1ZLrDPgR7mvuTco3rQK8Pk,0.269,0.737,0.747,0,0.219,-4.818,0.0323,105.943,0.447
+Roses - Imanbek Remix,SAINt JHN,6e6be6hyp6QXrAlzCUFzSL,https://api.spotify.com/v1/tracks/6e6be6hyp6QXrAlzCUFzSL,0.0149,0.784,0.721,0.00424,0.285,-5.457,0.0506,121.966,0.895
+You Send Me,Aretha Franklin,4VijLEUxHEzbWKYL5u9wuN,https://api.spotify.com/v1/tracks/4VijLEUxHEzbWKYL5u9wuN,0.57,0.512,0.303,0,0.0803,-13.547,0.0374,102.908,0.629
+Pneumatic Tokyo,Env,3gVsVsmcJG2NBKhWCTHB8Q,https://api.spotify.com/v1/tracks/3gVsVsmcJG2NBKhWCTHB8Q,0.0844,0.803,0.895,0.445,0.0978,-6.208,0.0603,129.973,0.378
+Dancing in the Moonlight,Toploader,3Fzlg5r1IjhLk2qRw667od,https://api.spotify.com/v1/tracks/3Fzlg5r1IjhLk2qRw667od,0.0624,0.632,0.856,0,0.347,-3.463,0.0348,119.397,0.867
+Nandaka,NIVIRO,3cCEPsI8BaF79A3YsqjUHi,https://api.spotify.com/v1/tracks/3cCEPsI8BaF79A3YsqjUHi,0.00146,0.58,0.897,0.899,0.0935,-3.891,0.0545,128.008,0.127
+Vi är för alltid,kent,2WATrpIPvtgmByc8MrIuHs,https://api.spotify.com/v1/tracks/2WATrpIPvtgmByc8MrIuHs,0.0028,0.614,0.685,0.00413,0.128,-7.57,0.0303,111.999,0.498
+We'll Be Coming Back (feat. Example) - Killsonik Remix,Calvin Harris,5EAjCshmGUYJ5Iqcz4H1jU,https://api.spotify.com/v1/tracks/5EAjCshmGUYJ5Iqcz4H1jU,0.00354,0.459,0.819,2.15E-05,0.108,-4.038,0.0518,139.955,0.181
+We All Lift Together,Freya Catherine,3yua0AP3kkKhpqUhi4uuw6,https://api.spotify.com/v1/tracks/3yua0AP3kkKhpqUhi4uuw6,0.741,0.543,0.278,0,0.0859,-11.941,0.0335,120.015,0.15
+Asuka,PIKASONIC,7ooZV0g4aFZbfwBSEKp0jt,https://api.spotify.com/v1/tracks/7ooZV0g4aFZbfwBSEKp0jt,0.000642,0.651,0.938,0.829,0.327,-4.317,0.0348,128.004,0.355
+Something Just Like This,Fabien Tell,1nleadb6UL404mwEl9qq72,https://api.spotify.com/v1/tracks/1nleadb6UL404mwEl9qq72,0.825,0.805,0.362,0.777,0.114,-18.339,0.0886,139.998,0.488
+Vikings,Filip Lackovic,6i2u1IJ9uDeJVC7mwxZQVI,https://api.spotify.com/v1/tracks/6i2u1IJ9uDeJVC7mwxZQVI,0.614,0.451,0.384,0.112,0.1,-12.271,0.028,89.98,0.0567
+Freak Me (feat. Tekno),Ciara,2YzhSj3vzAC6UDpFEwTMLF,https://api.spotify.com/v1/tracks/2YzhSj3vzAC6UDpFEwTMLF,0.324,0.691,0.716,5.69E-06,0.0788,-5.683,0.174,104.696,0.441
+Wolves - MOTi Remix,Selena Gomez,7471s4m02axg6ZtBzBzy22,https://api.spotify.com/v1/tracks/7471s4m02axg6ZtBzBzy22,0.0183,0.647,0.838,0,0.129,-3.752,0.0566,125.927,0.371
+Fire Force -Main Theme-,Kenichiro Suehiro,3Q9Sy7LjDqxntlhcmVdAh2,https://api.spotify.com/v1/tracks/3Q9Sy7LjDqxntlhcmVdAh2,0.637,0.288,0.719,0.922,0.088,-5.99,0.0516,168.975,0.26
+Hooked,Why Don't We,2N2s2s2w0jmSIPNZcm8Jnr,https://api.spotify.com/v1/tracks/2N2s2s2w0jmSIPNZcm8Jnr,0.0941,0.623,0.624,0,0.119,-5.469,0.0595,180.016,0.347
+Rude,MAGIC!,6RtPijgfPKROxEzTHNRiDp,https://api.spotify.com/v1/tracks/6RtPijgfPKROxEzTHNRiDp,0.0422,0.773,0.758,0,0.305,-4.993,0.0381,144.033,0.925
+No Way No,MAGIC!,5xHooj89TQoQHj3dALvSh1,https://api.spotify.com/v1/tracks/5xHooj89TQoQHj3dALvSh1,0.104,0.743,0.733,1.05E-05,0.149,-5.183,0.0513,153.978,0.807
+Wellerman - Sea Shanty / 220 KID x Billen Ted Remix,Nathan Evans,3iw6V4LH7yPj1ESORX9RIN,https://api.spotify.com/v1/tracks/3iw6V4LH7yPj1ESORX9RIN,0.0441,0.722,0.893,0.000937,0.0673,-3.255,0.0475,119.932,0.439
+When It Feels Right,Chase White,7ANTCZaj6qfdJKzzOJlusA,https://api.spotify.com/v1/tracks/7ANTCZaj6qfdJKzzOJlusA,0.207,0.719,0.852,0,0.0866,-4.359,0.0958,113.024,0.847
+Say So,Doja Cat,3Dv1eDb0MEgF93GpLXlucZ,https://api.spotify.com/v1/tracks/3Dv1eDb0MEgF93GpLXlucZ,0.264,0.787,0.673,3.35E-06,0.0904,-4.583,0.159,110.962,0.779
+Into The Night,NERO,7kjFiwwjH5OZeTkqoAhSKh,https://api.spotify.com/v1/tracks/7kjFiwwjH5OZeTkqoAhSKh,0.0287,0.536,0.799,0.00197,0.932,-5.08,0.052,121.963,0.0521
+Fire and Thunder,Cjbeards,7n38K4iK5k5StBIg7ntdqq,https://api.spotify.com/v1/tracks/7n38K4iK5k5StBIg7ntdqq,0.436,0.432,0.538,0.755,0.0763,-13.302,0.0366,138.076,0.105
+Giant,YUQI,3p8low79RQzkixDlIngBTT,https://api.spotify.com/v1/tracks/3p8low79RQzkixDlIngBTT,0.295,0.614,0.865,0,0.115,-3.668,0.0461,148.035,0.596
+Dancin (feat. Luvli) - Krono Remix,Aaron Smith,6WkJ2OK163XXS2oARUC9JM,https://api.spotify.com/v1/tracks/6WkJ2OK163XXS2oARUC9JM,0.101,0.72,0.741,1.41E-05,0.289,-6.529,0.0287,119.896,0.357
+夜に駆ける,YOASOBI,3dPtXHP0oXQ4HCWHsOA9js,https://api.spotify.com/v1/tracks/3dPtXHP0oXQ4HCWHsOA9js,0.00231,0.67,0.874,1.72E-05,0.3,-5.221,0.0305,130.041,0.789
+Am I Wrong,Nico & Vinz,1fidCEsYlaVE3pHwKCvpFZ,https://api.spotify.com/v1/tracks/1fidCEsYlaVE3pHwKCvpFZ,0.175,0.729,0.675,1.58E-06,0.55,-6.003,0.0312,119.968,0.779
+More Of My Life,BLAEKER,2bS9K5e7yfggeBtDaJ4x9C,https://api.spotify.com/v1/tracks/2bS9K5e7yfggeBtDaJ4x9C,0.115,0.725,0.806,0,0.0951,-5.501,0.0442,140.058,0.531
+Press Start (Dex Arson Remix),MDK,6U9Axv8L0xyyoYHlIbtVFf,https://api.spotify.com/v1/tracks/6U9Axv8L0xyyoYHlIbtVFf,0.0012,0.705,0.829,0.372,0.0662,-3.54,0.0465,127.993,0.304
+Funny - Breathe Carolina Remix,Zedd,5qFxwk3aRCzq0U8HKLfWRB,https://api.spotify.com/v1/tracks/5qFxwk3aRCzq0U8HKLfWRB,0.509,0.658,0.805,0,0.147,-5.522,0.0438,114.917,0.296
+Symphony (feat. Zara Larsson),Clean Bandit,72gv4zhNvRVdQA0eOenCal,https://api.spotify.com/v1/tracks/72gv4zhNvRVdQA0eOenCal,0.239,0.715,0.605,1.41E-05,0.189,-5.128,0.0428,122.956,0.454
+In This Shirt,The Irrepressibles,4d3QT8EyzdU5ShmEM71nRc,https://api.spotify.com/v1/tracks/4d3QT8EyzdU5ShmEM71nRc,0.691,0.232,0.398,0.384,0.159,-9.574,0.0305,79.799,0.038
+As the World Caves In,Matt Maltese,4JE6agBLHGA5TaF6FlqfBD,https://api.spotify.com/v1/tracks/4JE6agBLHGA5TaF6FlqfBD,0.365,0.331,0.45,0.00464,0.22,-5.362,0.034,123.829,0.18
+Unstoppable,Sia,2J2Z1SkXYghSajLibnQHOa,https://api.spotify.com/v1/tracks/2J2Z1SkXYghSajLibnQHOa,0.112,0.468,0.779,0.000373,0.101,-4.839,0.0779,173.799,0.26
+INDUSTRY BABY - EXTENDED,Lil Nas X,4BI4iNZigfF4SUq13TcFPh,https://api.spotify.com/v1/tracks/4BI4iNZigfF4SUq13TcFPh,0.0167,0.732,0.708,0,0.0528,-6.775,0.0593,149.988,0.883
+Alone,Marshmello,3MEYFivt6bilQ9q9mFWZ4g,https://api.spotify.com/v1/tracks/3MEYFivt6bilQ9q9mFWZ4g,0.0241,0.631,0.953,0.0155,0.108,-3.739,0.0343,141.99,0.422
+Fly Away - JJD Remix,TheFatRat,4k1s1ONBKTgWwGW9S2hr4c,https://api.spotify.com/v1/tracks/4k1s1ONBKTgWwGW9S2hr4c,0.0202,0.452,0.878,0.000318,0.0907,-3.184,0.0725,201.392,0.345
+Love Die Young,Eric Nam,4DERyalxTlWCdlHkVi0TfO,https://api.spotify.com/v1/tracks/4DERyalxTlWCdlHkVi0TfO,0.655,0.662,0.39,0,0.0933,-8.802,0.125,76.016,0.22
+ZOMBIFIED,Falling In Reverse,2ib8fuTavdc48X6MjhE4Ft,https://api.spotify.com/v1/tracks/2ib8fuTavdc48X6MjhE4Ft,0.000141,0.544,0.911,8.89E-06,0.333,-3.681,0.0422,91.033,0.558
+Light It Up,Robin Hustin,6ibayfvVOby1NSKJFohtZp,https://api.spotify.com/v1/tracks/6ibayfvVOby1NSKJFohtZp,0.0037,0.671,0.949,3.83E-05,0.374,-2.44,0.0829,128.028,0.0724
+The Box,Roddy Ricch,0nbXyq5TXYPCO7pr3N8S4I,https://api.spotify.com/v1/tracks/0nbXyq5TXYPCO7pr3N8S4I,0.104,0.896,0.586,0,0.79,-6.687,0.0559,116.971,0.642
+Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,3KkXRkHbMCARz0aVfEt68P,https://api.spotify.com/v1/tracks/3KkXRkHbMCARz0aVfEt68P,0.556,0.76,0.479,0,0.0703,-5.574,0.0466,89.911,0.913
+Love me or Leave me,DAY6,7F9HWeJf4BTUzpj3B0CQKT,https://api.spotify.com/v1/tracks/7F9HWeJf4BTUzpj3B0CQKT,0.00085,0.618,0.899,0,0.124,-3.364,0.0328,126.012,0.58
+Youngblood - R3HAB Remix,5 Seconds of Summer,2vIzH4NfFGoJHA5rn1dFWT,https://api.spotify.com/v1/tracks/2vIzH4NfFGoJHA5rn1dFWT,0.0312,0.425,0.771,0,0.165,-4.293,0.0629,142.034,0.213
+Rise Up,TheFatRat,6inzGTxyGsXVjpVKtFGrcE,https://api.spotify.com/v1/tracks/6inzGTxyGsXVjpVKtFGrcE,0.254,0.614,0.694,2.63E-06,0.0733,-5.713,0.0932,163.942,0.578
+Undertale - Bergentrückung + Asgore,Geek Music,3rDtB3kKqwRgrGCvuRSW9X,https://api.spotify.com/v1/tracks/3rDtB3kKqwRgrGCvuRSW9X,0.000759,0.635,0.831,0.812,0.147,-12.804,0.0345,115.216,0.474
+It's My Life,Bon Jovi,0v1XpBHnsbkCn7iJ9Ucr1l,https://api.spotify.com/v1/tracks/0v1XpBHnsbkCn7iJ9Ucr1l,0.0263,0.551,0.913,1.35E-05,0.347,-4.063,0.0466,119.992,0.544
+Hold Back the Sun,The Lighthearts,2pOsXzFmln7w6VXkpqXZMj,https://api.spotify.com/v1/tracks/2pOsXzFmln7w6VXkpqXZMj,0.0314,0.368,0.822,7.68E-06,0.17,-5.248,0.0431,122.004,0.368
+Say It Right,Nelly Furtado,2aI21FnmY7TJVKeMaoQZ0t,https://api.spotify.com/v1/tracks/2aI21FnmY7TJVKeMaoQZ0t,0.0476,0.872,0.872,0.00112,0.0543,-6.328,0.139,116.948,0.809
+TOMORROW,Machico,478MR37OX1FZV8ngGCqemn,https://api.spotify.com/v1/tracks/478MR37OX1FZV8ngGCqemn,0.0654,0.622,0.984,3.04E-06,0.199,-1.561,0.183,134.067,0.478
+Abandon Ship,Simon Chylinski,39NBpzpV7oY6Yfb9AhfyVz,https://api.spotify.com/v1/tracks/39NBpzpV7oY6Yfb9AhfyVz,0.131,0.663,0.673,0.912,0.103,-9.426,0.118,140.029,0.466
+Starkiller Base - Instrumental Version,SOAP!,5kNsipIamzUu0VcY3O2Fpr,https://api.spotify.com/v1/tracks/5kNsipIamzUu0VcY3O2Fpr,0.00485,0.766,0.4,0.947,0.0859,-9.523,0.0389,120.018,0.479
+Be My Remedy,HOUSE OF SAY,2ul8NCKoRZ8OlLdDdCIRR5,https://api.spotify.com/v1/tracks/2ul8NCKoRZ8OlLdDdCIRR5,0.00908,0.71,0.515,0.00294,0.575,-7.217,0.122,99.993,0.462
+Can We Kiss Forever?,Kina,58wyJLv6yH1La9NIZPl3ne,https://api.spotify.com/v1/tracks/58wyJLv6yH1La9NIZPl3ne,0.894,0.522,0.128,0.026,0.0941,-18.717,0.0357,109.986,0.124
+Howl's Moving Castle Theme,Kyle Landry,3Hc7Su1AVaynKEkwSZopbN,https://api.spotify.com/v1/tracks/3Hc7Su1AVaynKEkwSZopbN,0.94,0.322,0.144,0.918,0.0744,-17.448,0.0384,142.881,0.0471
+Miroh - Instrumental,Piano Dreamers,0pRwZ0Vh3Vud0XANoHyiS2,https://api.spotify.com/v1/tracks/0pRwZ0Vh3Vud0XANoHyiS2,0.964,0.517,0.341,0.93,0.106,-17.085,0.0445,126.014,0.3
+Shine,PENTAGON,7nkp1uuSbKkoxMvEs8cSw0,https://api.spotify.com/v1/tracks/7nkp1uuSbKkoxMvEs8cSw0,0.411,0.74,0.804,0,0.0578,-2.187,0.0546,150.013,0.791
+BBoom BBoom,MOMOLAND,3BPoSr2pO34Aan6alFfVto,https://api.spotify.com/v1/tracks/3BPoSr2pO34Aan6alFfVto,0.0149,0.785,0.744,0.00666,0.0661,-4.249,0.0369,126.018,0.833
+Likey,TWICE,0IEVKWduAaMcZepZQVr80T,https://api.spotify.com/v1/tracks/0IEVKWduAaMcZepZQVr80T,0.413,0.723,0.903,0.000377,0.118,-1.262,0.033,132.006,0.443
+Love Shot,EXO,0yB4jrSwN0bFtFRDR5vyMj,https://api.spotify.com/v1/tracks/0yB4jrSwN0bFtFRDR5vyMj,0.0702,0.689,0.678,0,0.0889,-4.287,0.119,145.883,0.335
+Play It Cool - Quintino Remix,Steve Aoki,6jLkxWgD7u9aVGAjhz6k0U,https://api.spotify.com/v1/tracks/6jLkxWgD7u9aVGAjhz6k0U,0.00652,0.692,0.861,0.0161,0.0647,-5.378,0.0954,127.98,0.494
+MIC Drop (Steve Aoki Remix) [Full Length Edition],BTS,75scDPqGs75FotglJSoOI2,https://api.spotify.com/v1/tracks/75scDPqGs75FotglJSoOI2,0.0114,0.606,0.848,1.06E-06,0.206,-3.952,0.184,170.01,0.54
+Dope,BTS,4TiKZrN7gtc62SUiufpFCM,https://api.spotify.com/v1/tracks/4TiKZrN7gtc62SUiufpFCM,0.0272,0.579,0.896,1.02E-06,0.352,-2.781,0.224,153.991,0.678
+Fire - Japanese Ver.,BTS,37T5IYyhKNow16Rf2eohTt,https://api.spotify.com/v1/tracks/37T5IYyhKNow16Rf2eohTt,0.00359,0.651,0.714,0,0.125,-2.977,0.0699,99.999,0.508
+IDOL,BTS,2AIWoHr9DF6y4KALCBKWQS,https://api.spotify.com/v1/tracks/2AIWoHr9DF6y4KALCBKWQS,0.00481,0.734,0.855,0,0.123,-3.211,0.118,126.035,0.422
+FAKE LOVE,BTS,3aW0ds4A4tSQDIp75FqWTo,https://api.spotify.com/v1/tracks/3aW0ds4A4tSQDIp75FqWTo,0.00267,0.557,0.719,0,0.306,-4.515,0.0372,77.501,0.344
+LA DI DA,EVERGLOW,6mIjJONoUMvGPT9Kzrab3L,https://api.spotify.com/v1/tracks/6mIjJONoUMvGPT9Kzrab3L,0.00108,0.477,0.85,0,0.0675,-1.486,0.0911,163.845,0.601
+FANCY,TWICE,0W5hTAWn8Tq0Qfhg1XP3YW,https://api.spotify.com/v1/tracks/0W5hTAWn8Tq0Qfhg1XP3YW,0.0122,0.697,0.874,0,0.627,-2.15,0.045,132.022,0.775
+Heart Shaker,TWICE,52FCAZn0YEkZfF0BtiAUMW,https://api.spotify.com/v1/tracks/52FCAZn0YEkZfF0BtiAUMW,0.105,0.564,0.944,0,0.154,-0.532,0.0647,164.062,0.857
+Feel Special,TWICE,3Hz3tTQwOdM6XkA0ALB2G9,https://api.spotify.com/v1/tracks/3Hz3tTQwOdM6XkA0ALB2G9,0.0296,0.708,0.959,0.00188,0.107,-1.338,0.0604,128.981,0.644
+Not Shy,ITZY,4ecVWqbtW6phQGpZMAyqIU,https://api.spotify.com/v1/tracks/4ecVWqbtW6phQGpZMAyqIU,0.155,0.776,0.911,2.59E-06,0.268,-3.08,0.131,101.027,0.56
+BAAM,MOMOLAND,4Is1b37KJY9XVCgzp81FBW,https://api.spotify.com/v1/tracks/4Is1b37KJY9XVCgzp81FBW,0.115,0.725,0.94,0.00431,0.0864,-2.32,0.0435,127.051,0.905
+Open Fire,The VANE,65pipJGXaATPewXISzxPAT,https://api.spotify.com/v1/tracks/65pipJGXaATPewXISzxPAT,0.0161,0.329,0.89,0.000246,0.13,-4.072,0.0883,160.112,0.201
+Blue Bird,AILEE,13IuATTOvkbexVRNuiXeVc,https://api.spotify.com/v1/tracks/13IuATTOvkbexVRNuiXeVc,0.249,0.482,0.574,0,0.0702,-4.71,0.0269,147.952,0.127
+Love Letter,BOL4,2qPQ2MoVwf7VsKddqPfttw,https://api.spotify.com/v1/tracks/2qPQ2MoVwf7VsKddqPfttw,0.152,0.728,0.764,0,0.178,-2.502,0.0345,109.985,0.603
+Bad Boy,Red Velvet,5GKwq4sO5ZHKuWaDmdwMQc,https://api.spotify.com/v1/tracks/5GKwq4sO5ZHKuWaDmdwMQc,0.191,0.714,0.736,0,0.0553,-3.801,0.0457,149.985,0.814
+Take You Dancing,Jason Derulo,59qrUpoplZxbIZxk6X0Bm3,https://api.spotify.com/v1/tracks/59qrUpoplZxbIZxk6X0Bm3,0.0332,0.789,0.711,0,0.0876,-4.248,0.041,112.985,0.753
+bad guy,Billie Eilish,2Fxmhks0bxGSBdJ92vM42m,https://api.spotify.com/v1/tracks/2Fxmhks0bxGSBdJ92vM42m,0.328,0.701,0.425,0.13,0.1,-10.965,0.375,135.128,0.562
+Celebrity,IU,4RewTiGEGoO7FWNZUmp1f4,https://api.spotify.com/v1/tracks/4RewTiGEGoO7FWNZUmp1f4,0.191,0.73,0.784,0,0.0956,-2.62,0.0691,99.995,0.673
+AYA,MAMAMOO,4BZXVFYCb76Q0Klojq4piV,https://api.spotify.com/v1/tracks/4BZXVFYCb76Q0Klojq4piV,0.101,0.634,0.858,8.56E-06,0.258,-2.226,0.0809,91.688,0.637
+Something,Girl's Day,3xHIyErJUeuy0MpjUKRuPw,https://api.spotify.com/v1/tracks/3xHIyErJUeuy0MpjUKRuPw,0.179,0.813,0.683,0,0.0748,-3.813,0.0285,107.95,0.668
+I Need U,BTS,7dlNGfd6Fq8xcFb4K6Glws,https://api.spotify.com/v1/tracks/7dlNGfd6Fq8xcFb4K6Glws,0.0184,0.475,0.897,0,0.296,-2.383,0.0736,78.918,0.642
+Permission to Dance,BTS,0LThjFY2iTtNdd4wviwVV2,https://api.spotify.com/v1/tracks/0LThjFY2iTtNdd4wviwVV2,0.00544,0.702,0.741,0,0.337,-5.33,0.0427,124.925,0.646
+Butter,BTS,2bgTY4UwhfBYhGT4HUYStN,https://api.spotify.com/v1/tracks/2bgTY4UwhfBYhGT4HUYStN,0.00323,0.759,0.459,0,0.0906,-5.187,0.0948,109.997,0.695
+Oh my god - English Version,(G)I-DLE,2EJbMzocEZ6VHnZKQ8pt8H,https://api.spotify.com/v1/tracks/2EJbMzocEZ6VHnZKQ8pt8H,0.0361,0.794,0.756,0.000351,0.253,-3.528,0.0402,109.971,0.518
+FIESTA,IZ*ONE,6Ihdn6wW2UBhfTKWbP29KA,https://api.spotify.com/v1/tracks/6Ihdn6wW2UBhfTKWbP29KA,0.0617,0.756,0.927,0,0.343,-2.116,0.0594,123.005,0.723
+U Like Me?,Jinnie,4ZIMfEqahpJgo4M8GIJskd,https://api.spotify.com/v1/tracks/4ZIMfEqahpJgo4M8GIJskd,0.285,0.8,0.554,0,0.161,-6.333,0.0576,125.029,0.397
+abcdefu,GAYLE,4fouWK6XVHhzl78KzQ1UjL,https://api.spotify.com/v1/tracks/4fouWK6XVHhzl78KzQ1UjL,0.299,0.695,0.54,0,0.367,-5.692,0.0493,121.932,0.415
+You & Me,MEUTE,1MdbDBwEEecnlLiyWChJFh,https://api.spotify.com/v1/tracks/1MdbDBwEEecnlLiyWChJFh,0.652,0.661,0.548,0.265,0.0913,-4.053,0.0407,75.068,0.0954
+Stayin Alive,Bee Gees,5ubvP9oKmxLUVq506fgLhk,https://api.spotify.com/v1/tracks/5ubvP9oKmxLUVq506fgLhk,0.0288,0.702,0.773,0.00871,0.147,-9.256,0.0343,103.564,0.953
+Africa,TOTO,2374M0fQpWi3dLnB54qaLX,https://api.spotify.com/v1/tracks/2374M0fQpWi3dLnB54qaLX,0.257,0.671,0.373,8.01E-05,0.0481,-18.064,0.0323,92.718,0.732
+September,"Earth, Wind & Fire",2grjqo0Frpf2okIBiifQKs,https://api.spotify.com/v1/tracks/2grjqo0Frpf2okIBiifQKs,0.168,0.697,0.832,0.00131,0.269,-7.264,0.0298,125.926,0.979
+Celebration,Kool & The Gang,3K7Q9PHUWPTaknlbFPThn2,https://api.spotify.com/v1/tracks/3K7Q9PHUWPTaknlbFPThn2,0.145,0.885,0.664,0.0483,0.0767,-11.795,0.0524,121.632,0.906
+Get Down On It - Single Version,Kool & The Gang,4yKZACkuudvfd600H2dQie,https://api.spotify.com/v1/tracks/4yKZACkuudvfd600H2dQie,0.205,0.879,0.626,6.07E-05,0.056,-6.344,0.0604,110.864,0.968
+Never Gonna Give You Up,Rick Astley,4cOdK2wGLETKBW3PvgPWqT,https://api.spotify.com/v1/tracks/4cOdK2wGLETKBW3PvgPWqT,0.115,0.721,0.939,3.79E-05,0.108,-11.823,0.0376,113.309,0.914
+Take on Me,a-ha,2WfaOiMkCvy7F5fcp2zZ8L,https://api.spotify.com/v1/tracks/2WfaOiMkCvy7F5fcp2zZ8L,0.018,0.573,0.902,0.00125,0.0928,-7.638,0.054,84.412,0.876
+Lean On Me,Cheat Codes,5acSb48zFAcXTdL5Wsk8xx,https://api.spotify.com/v1/tracks/5acSb48zFAcXTdL5Wsk8xx,0.0703,0.686,0.738,0,0.0505,-5.802,0.287,101.829,0.45
+Sweet Dreams (Are Made of This) - Remastered,Eurythmics,1TfqLAPs4K3s2rJMoCokcS,https://api.spotify.com/v1/tracks/1TfqLAPs4K3s2rJMoCokcS,0.225,0.692,0.711,0,0.12,-7.498,0.0317,125.135,0.875
+Eye of the Tiger,Survivor,2KH16WveTQWT6KOG9Rg6e2,https://api.spotify.com/v1/tracks/2KH16WveTQWT6KOG9Rg6e2,0.132,0.817,0.599,0.000311,0.0873,-9.249,0.0328,108.873,0.548
+Scatman (ski-ba-bop-ba-dop-bop),Scatman John,623rRTKwGmgjH6sjE9uWLh,https://api.spotify.com/v1/tracks/623rRTKwGmgjH6sjE9uWLh,0.0655,0.65,0.82,0.00274,0.215,-10.9,0.0356,135.982,0.757
+Wake Me Up Before You Go-Go,Wham!,0ikz6tENMONtK6qGkOrU3c,https://api.spotify.com/v1/tracks/0ikz6tENMONtK6qGkOrU3c,0.271,0.62,0.573,0,0.0607,-11.893,0.0423,81.548,0.897
+Uptown Girl,Billy Joel,5zA8vzDGqPl2AzZkEYQGKh,https://api.spotify.com/v1/tracks/5zA8vzDGqPl2AzZkEYQGKh,0.0755,0.701,0.944,0,0.601,-2.986,0.0455,128.993,0.792
+I Wanna Dance with Somebody (Who Loves Me),Whitney Houston,7Bc0S4rnNF06apWGfK2S3G,https://api.spotify.com/v1/tracks/7Bc0S4rnNF06apWGfK2S3G,0.142,0.723,0.889,0.000334,0.0941,-5.077,0.0467,118.833,0.831
+We Didn't Start the Fire,Billy Joel,3Cx4yrFaX8CeHwBMReOWXI,https://api.spotify.com/v1/tracks/3Cx4yrFaX8CeHwBMReOWXI,0.0771,0.712,0.967,0,0.356,-5.206,0.047,145.024,0.895
+"Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",Johann Sebastian Bach,17i5jLpzndlQhbS4SrTd0B,https://api.spotify.com/v1/tracks/17i5jLpzndlQhbS4SrTd0B,0.89,0.275,0.157,0.842,0.186,-18.752,0.0636,73.289,0.304
+Big Enough,Kirin J Callinan,01u01w4wPZ4eYzm23cKmev,https://api.spotify.com/v1/tracks/01u01w4wPZ4eYzm23cKmev,0.0114,0.502,0.524,8.11E-06,0.0456,-8.413,0.0655,125.062,0.183
+All Star,Smash Mouth,3cfOd4CMv2snFaKAnMdnvK,https://api.spotify.com/v1/tracks/3cfOd4CMv2snFaKAnMdnvK,0.0395,0.731,0.867,0,0.0861,-5.881,0.032,104.019,0.776
+"Take Me Home, Country Roads",John Denver,1QbOvACeYanja5pbnJbAmk,https://api.spotify.com/v1/tracks/1QbOvACeYanja5pbnJbAmk,0.546,0.38,0.43,1.71E-05,0.188,-12.564,0.0288,82.204,0.547
+Piano Man,Billy Joel,70C4NyhjD5OZUMzvWZ3njJ,https://api.spotify.com/v1/tracks/70C4NyhjD5OZUMzvWZ3njJ,0.605,0.331,0.55,3.96E-06,0.192,-6.483,0.0272,177.734,0.429
+Hips Don't Lie (feat. Wyclef Jean),Shakira,3ZFTkvIE7kyPt6Nu3PEa7V,https://api.spotify.com/v1/tracks/3ZFTkvIE7kyPt6Nu3PEa7V,0.284,0.778,0.824,0,0.405,-5.892,0.0707,100.024,0.758
+Darkside,Alan Walker,6SRWhUJcD2YKahCwHavz3X,https://api.spotify.com/v1/tracks/6SRWhUJcD2YKahCwHavz3X,0.131,0.43,0.606,0,0.173,-5.115,0.0431,169.988,0.123
+On My Way,Alan Walker,4n7jnSxVLd8QioibtTDBDq,https://api.spotify.com/v1/tracks/4n7jnSxVLd8QioibtTDBDq,0.0209,0.509,0.689,0,0.301,-4.929,0.102,170.087,0.297
+High Hopes,Panic! At The Disco,1rqqCSm0Qe4I9rUvWncaom,https://api.spotify.com/v1/tracks/1rqqCSm0Qe4I9rUvWncaom,0.193,0.579,0.904,0,0.064,-2.729,0.0618,82.014,0.681
+Emperor's New Clothes,Panic! At The Disco,3px2rAPu74ltbkf9eZsZ8h,https://api.spotify.com/v1/tracks/3px2rAPu74ltbkf9eZsZ8h,0.00302,0.562,0.904,0,0.0433,-4.947,0.0807,94.481,0.651
+"Hey Look Ma, I Made It",Panic! At The Disco,22oEJW6r2rMb9z4IntfyEa,https://api.spotify.com/v1/tracks/22oEJW6r2rMb9z4IntfyEa,0.0137,0.577,0.833,0,0.121,-3.337,0.0695,107.936,0.58
+Firework,Katy Perry,1mXuMM6zjPgjL4asbBsgnt,https://api.spotify.com/v1/tracks/1mXuMM6zjPgjL4asbBsgnt,0.141,0.638,0.832,0,0.113,-5.039,0.049,124.071,0.648
+Somebody That I Used To Know,Gotye,1qDrWA6lyx8cLECdZE7TV7,https://api.spotify.com/v1/tracks/1qDrWA6lyx8cLECdZE7TV7,0.548,0.865,0.521,0.000115,0.0989,-6.932,0.0371,129.059,0.748
+Pumped Up Kicks,Foster The People,7w87IxuO7BDcJ3YUqCyMTT,https://api.spotify.com/v1/tracks/7w87IxuO7BDcJ3YUqCyMTT,0.145,0.733,0.71,0.115,0.0956,-5.849,0.0292,127.975,0.965
+Let Her Go,Passenger,7DFNE7NO0raLIUbgzY2rzm,https://api.spotify.com/v1/tracks/7DFNE7NO0raLIUbgzY2rzm,0.385,0.509,0.538,0,0.104,-7.335,0.0572,75.089,0.244
+Me And My Broken Heart - Lovelife Remix,Rixton,5NWbnAkvS38gu5tHZQF7df,https://api.spotify.com/v1/tracks/5NWbnAkvS38gu5tHZQF7df,0.0112,0.612,0.654,2.85E-05,0.119,-6.601,0.0478,119.986,0.557
+Part Of Me,Katy Perry,6xgIaYDPq1b47YDbakitWQ,https://api.spotify.com/v1/tracks/6xgIaYDPq1b47YDbakitWQ,0.000236,0.672,0.918,0,0.0668,-4.605,0.036,130.042,0.772
+The One That Got Away - Acoustic,Katy Perry,256321EGnc5emXxG3do9OR,https://api.spotify.com/v1/tracks/256321EGnc5emXxG3do9OR,0.665,0.711,0.441,0,0.0939,-11.613,0.0387,123.942,0.323
+Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) - Tiësto Remix,Martin Garrix,55nMnifaQWKe3f9cbwOXwx,https://api.spotify.com/v1/tracks/55nMnifaQWKe3f9cbwOXwx,0.00733,0.69,0.78,0.00183,0.0729,-4.446,0.0594,126.07,0.238
+Together,Marshmello,6kwH41LJ6hfxlGn2c4oh6Y,https://api.spotify.com/v1/tracks/6kwH41LJ6hfxlGn2c4oh6Y,0.00114,0.567,0.703,0.921,0.101,-2.08,0.0311,142.019,0.309
+Take It Back,Marshmello,2D6VbgcGFSBhhZJHbVAN1Q,https://api.spotify.com/v1/tracks/2D6VbgcGFSBhhZJHbVAN1Q,0.0172,0.591,0.909,0.694,0.743,-4.376,0.0542,142.065,0.192
+Moving On,Marshmello,6Ehy8wRUYjAZcMMRCxMZVM,https://api.spotify.com/v1/tracks/6Ehy8wRUYjAZcMMRCxMZVM,0.00286,0.687,0.799,0.0565,0.21,-1.498,0.0354,142,0.67
+Fly,Marshmello,2HO0uCyq8jOveEzvmo4JEu,https://api.spotify.com/v1/tracks/2HO0uCyq8jOveEzvmo4JEu,0.000639,0.63,0.9,0.852,0.203,-3.955,0.0387,134.988,0.155
+Robot Love,Klaypex,718lC48FqA6liN6xSgBUhm,https://api.spotify.com/v1/tracks/718lC48FqA6liN6xSgBUhm,0.0468,0.705,0.924,0.0466,0.573,-2.975,0.0438,128.066,0.307
+Heart Afire,Defqwop,4s4XzNKcU3PtmeV7OdXDmv,https://api.spotify.com/v1/tracks/4s4XzNKcU3PtmeV7OdXDmv,0.0316,0.414,0.708,0,0.0623,-4.181,0.0912,199.9,0.392
+Commodus Pt.3 (The Battle),Stefan Nixdorf,1vDG3v8n9iXjieDCGDBYrP,https://api.spotify.com/v1/tracks/1vDG3v8n9iXjieDCGDBYrP,0.00709,0.667,0.946,0.686,0.0763,-5.565,0.0552,120.018,0.105
+This Is Gospel,Panic! At The Disco,3yZQk5PC52CCmT4ZaTIKvv,https://api.spotify.com/v1/tracks/3yZQk5PC52CCmT4ZaTIKvv,0.00155,0.572,0.912,1.20E-06,0.102,-4.875,0.0707,156.073,0.606
+"Dancing Through Life - From ""Wicked"" Original Broadway Cast Recording/2003",Norbert Leo Butz,45Yr7rD2vH3OsTRseT6gfA,https://api.spotify.com/v1/tracks/45Yr7rD2vH3OsTRseT6gfA,0.619,0.458,0.445,0,0.193,-8.752,0.0517,116.606,0.337
+Swing it,Sean&Bobo,4mwjYRjUBsUwclx0QFKVPx,https://api.spotify.com/v1/tracks/4mwjYRjUBsUwclx0QFKVPx,0.19,0.824,0.911,0.274,0.126,-3.586,0.0452,128.026,0.662
+Outbreaker,Hinkik,5tdobxNAxGl9pSlTqT2toN,https://api.spotify.com/v1/tracks/5tdobxNAxGl9pSlTqT2toN,0.0605,0.716,0.719,0,0.634,-4.087,0.0406,128.026,0.306
+Out Of Control - Original Mix,Cosmic,5rlYABI9Uk8dUxEoSyLymn,https://api.spotify.com/v1/tracks/5rlYABI9Uk8dUxEoSyLymn,0.000155,0.693,0.927,0.0899,0.343,-2.78,0.22,134.038,0.248
+Ena,Hinkik,781keEYQlijESJ5B7oifcr,https://api.spotify.com/v1/tracks/781keEYQlijESJ5B7oifcr,0.0418,0.619,0.878,0.000394,0.124,-4.05,0.0324,128.023,0.284
+Cloud 9 (Originally Performed by Luke Benward & Dove Cameron) [Lullaby Version],Merry Tune Makers,6hAmZwEjrjVII9qqAyTRwT,https://api.spotify.com/v1/tracks/6hAmZwEjrjVII9qqAyTRwT,0.915,0.834,0.328,0.94,0.0951,-10.461,0.0759,122.022,0.765
+Swiggity,IZECOLD,0jTWJLIyKrqxqTBCO0nkwh,https://api.spotify.com/v1/tracks/0jTWJLIyKrqxqTBCO0nkwh,0.069,0.738,0.862,0.825,0.0748,-6.042,0.0465,128.024,0.733
+Jupiter (From The Planets),Gustav Holst,1TRXjzFQvzHI6X4f6MCYI9,https://api.spotify.com/v1/tracks/1TRXjzFQvzHI6X4f6MCYI9,0.944,0.294,0.124,0.88,0.0792,-21.561,0.0385,132.56,0.149
+Cloud 9,Tobu,79ZeRtWOAVsmqATch7TnUM,https://api.spotify.com/v1/tracks/79ZeRtWOAVsmqATch7TnUM,0.0277,0.7,0.741,7.40E-05,0.0948,-5.054,0.0936,128.081,0.502
+One Last Time,DG812,2RP3W99nATP4XHktaZIxqe,https://api.spotify.com/v1/tracks/2RP3W99nATP4XHktaZIxqe,0.0139,0.619,0.895,0.537,0.109,-2.544,0.0265,140.025,0.697
+ダンスフロアの果実 feat. nicamoq,Yunomi,27XNMx22JVfs2EJDYEFPqT,https://api.spotify.com/v1/tracks/27XNMx22JVfs2EJDYEFPqT,0.0402,0.723,0.903,3.55E-06,0.355,-3.711,0.0473,114.997,0.789
+Bipolarity,Starcat,2rRltDt3s88DFJqebU4H4m,https://api.spotify.com/v1/tracks/2rRltDt3s88DFJqebU4H4m,0.0148,0.774,0.884,0.00603,0.0904,-3.923,0.0522,110.03,0.946
+Can't Help Falling in Love - Single,Haley Reinhart,6LmFlSjRJJNcfJSxZTdcTe,https://api.spotify.com/v1/tracks/6LmFlSjRJJNcfJSxZTdcTe,0.947,0.41,0.0485,0,0.108,-13.918,0.038,137.97,0.247
+I'm Yours,Jason Mraz,1EzrEOXmMH3G43AXT1y7pA,https://api.spotify.com/v1/tracks/1EzrEOXmMH3G43AXT1y7pA,0.559,0.703,0.444,0,0.0973,-9.331,0.0417,150.96,0.712
+Not Ok - Frank Walker Remix,Kygo,6VP3410weACXiPCVLKSkOb,https://api.spotify.com/v1/tracks/6VP3410weACXiPCVLKSkOb,0.0337,0.679,0.866,0,0.0688,-3.754,0.0566,121.927,0.441
+are you sure?,Loote,0PiRp1VzEBHp68wY1M7zMs,https://api.spotify.com/v1/tracks/0PiRp1VzEBHp68wY1M7zMs,0.42,0.579,0.618,0,0.109,-6.433,0.0473,106.087,0.285
+Falling Like The Stars,James Arthur,395KzBy0bkb57dEvg6cfzJ,https://api.spotify.com/v1/tracks/395KzBy0bkb57dEvg6cfzJ,0.79,0.3,0.347,2.14E-06,0.111,-9.542,0.0364,169.361,0.164
+Me Sinto Bem,Caio Bud,5a6UWXgJMCfhw0Xi3D5nNj,https://api.spotify.com/v1/tracks/5a6UWXgJMCfhw0Xi3D5nNj,0.353,0.723,0.592,0,0.108,-7.793,0.0472,127.049,0.347
+Got It In You - Acoustic,BANNERS,4unF8ldGPeedLz8HRIvgxg,https://api.spotify.com/v1/tracks/4unF8ldGPeedLz8HRIvgxg,0.725,0.58,0.354,0,0.118,-5.722,0.0419,72.049,0.214
+Young,Parachute,7cpEhtddPd70q9a48mRvgz,https://api.spotify.com/v1/tracks/7cpEhtddPd70q9a48mRvgz,0.0361,0.683,0.682,1.47E-05,0.159,-5.911,0.0323,93.994,0.506
+First Burn,Ari Afsar,1A2gifkaEngunqZAFHUS0j,https://api.spotify.com/v1/tracks/1A2gifkaEngunqZAFHUS0j,0.343,0.679,0.472,0,0.649,-6.871,0.036,99.024,0.346
+Island Song,Zac Brown Band,273gNDaG3xT0ulMx4Vct6M,https://api.spotify.com/v1/tracks/273gNDaG3xT0ulMx4Vct6M,0.208,0.845,0.7,0,0.166,-6.025,0.0504,145.892,0.892
+"You Can Be King Again (From ""Hotarubi No Mori"")",Anime your Music,1z9eG7g9rhNPIMOs0vhI4R,https://api.spotify.com/v1/tracks/1z9eG7g9rhNPIMOs0vhI4R,0.97,0.103,0.117,0.484,0.0998,-19.394,0.0413,81.989,0.337
+The Anthem,Good Charlotte,0BRHnOFm6sjxN1i9LJrUDu,https://api.spotify.com/v1/tracks/0BRHnOFm6sjxN1i9LJrUDu,0.00666,0.494,0.939,0,0.139,-3.127,0.126,177.751,0.893
+My Love,Westlife,5p0ietGkLNEqx1Z7ijkw5g,https://api.spotify.com/v1/tracks/5p0ietGkLNEqx1Z7ijkw5g,0.098,0.491,0.593,0,0.257,-5.975,0.0255,144.142,0.328
+Live Fast - PUBGM,Alan Walker,23gk3dYysgp4FmWyZ2tOZF,https://api.spotify.com/v1/tracks/23gk3dYysgp4FmWyZ2tOZF,0.102,0.69,0.557,0,0.428,-5.443,0.0439,87.536,0.2
+Kalinka,The Red Army Choir,38wicLanOGFVTKtkKcSMnn,https://api.spotify.com/v1/tracks/38wicLanOGFVTKtkKcSMnn,0.851,0.202,0.209,0.103,0.0638,-24.75,0.0619,81.816,0.18
+Сумецкая,Отава Ё,5FKQzqwPvGfuYiD23Zusb6,https://api.spotify.com/v1/tracks/5FKQzqwPvGfuYiD23Zusb6,0.355,0.574,0.87,0,0.0661,-5.596,0.0359,140.016,0.967
+Про Ивана groove,Отава Ё,208Q9dS59uKv9wVSU0dSBg,https://api.spotify.com/v1/tracks/208Q9dS59uKv9wVSU0dSBg,0.394,0.552,0.678,0.000796,0.102,-6.478,0.0237,104.028,0.433
+Animal,Noah Kahan,00vhtWzNIISd9I04Cl3K7N,https://api.spotify.com/v1/tracks/00vhtWzNIISd9I04Cl3K7N,0.163,0.709,0.48,0,0.16,-8.353,0.305,175.916,0.365
+Wouldn't It Be Nice - Remastered 2000 / Stereo Mix,The Beach Boys,2Gy7qnDwt8Z3MNxqat4CsK,https://api.spotify.com/v1/tracks/2Gy7qnDwt8Z3MNxqat4CsK,0.718,0.392,0.629,3.76E-06,0.129,-7.056,0.0335,124.511,0.72
+"Orange (From ""Your Lie in April"") [Ending 2] - Piano Arrangement",Fonzi M,7tUePHQT88vhsAsWnlAQ29,https://api.spotify.com/v1/tracks/7tUePHQT88vhsAsWnlAQ29,0.972,0.483,0.201,0.94,0.126,-18.492,0.0365,172.066,0.113
+Payphone,Maroon 5,1XGmzt0PVuFgQYYnV2It7A,https://api.spotify.com/v1/tracks/1XGmzt0PVuFgQYYnV2It7A,0.0188,0.743,0.752,0,0.287,-4.813,0.0414,110.015,0.545
+"You Will Be Found (From ""Dear Evan Hansen"")",BYU Vocal Point,3iFjfGxlPGFjavrtVaDGKx,https://api.spotify.com/v1/tracks/3iFjfGxlPGFjavrtVaDGKx,0.305,0.305,0.572,0,0.12,-6.615,0.0349,86.786,0.266
+You & I,One Direction,2afCBiru10AFckfOa49wIa,https://api.spotify.com/v1/tracks/2afCBiru10AFckfOa49wIa,0.22,0.574,0.329,0,0.0986,-6.829,0.0274,130.993,0.356
+Leap Of Faith,Bullet For My Valentine,6pspGA0zLaGeLKQ2Ioxe1g,https://api.spotify.com/v1/tracks/6pspGA0zLaGeLKQ2Ioxe1g,0.00411,0.419,0.925,0,0.306,-6.055,0.0931,142.517,0.245
+Heroes Tonight,Janji,3SipFlNddvL0XNZRLXvdZD,https://api.spotify.com/v1/tracks/3SipFlNddvL0XNZRLXvdZD,0.075,0.537,0.786,0,0.253,-4.331,0.0317,127.994,0.178
+Echoes,Domastic,3AT5zKqec0wrw28UOT8GwB,https://api.spotify.com/v1/tracks/3AT5zKqec0wrw28UOT8GwB,0.000804,0.66,0.831,1.27E-06,0.316,-5.122,0.0533,128.005,0.18
+Flutter,Diamond Eyes,4SChm6bJIwNRpaWzN6iPTr,https://api.spotify.com/v1/tracks/4SChm6bJIwNRpaWzN6iPTr,0.0569,0.588,0.893,0.000748,0.103,-4.932,0.0531,159.975,0.23
+Gizmo,Syn Cole,03As1KdZnUfricQT09te8C,https://api.spotify.com/v1/tracks/03As1KdZnUfricQT09te8C,0.23,0.788,0.793,0.237,0.106,-3.568,0.0336,124.039,0.752
+Everything,Diamond Eyes,2goIIAg5kdzfwclJMFZM33,https://api.spotify.com/v1/tracks/2goIIAg5kdzfwclJMFZM33,0.0509,0.609,0.681,0,0.0845,-4.084,0.0516,140.038,0.386
+Heaven,Avicii,0vrmHPfoBadXVr2n0m1aqZ,https://api.spotify.com/v1/tracks/0vrmHPfoBadXVr2n0m1aqZ,0.0715,0.592,0.873,0.00982,0.142,-5.65,0.0275,122.011,0.516
+Happy Now - R3HAB Remix,Kygo,7AkLPOwjju8taQCJCaIUts,https://api.spotify.com/v1/tracks/7AkLPOwjju8taQCJCaIUts,0.0173,0.623,0.84,0,0.363,-5.446,0.123,123.068,0.539
+Hitohira no Hanabira (Bleach ED 17) - Stereopony - Cover,JooHee Ahn,17HRPvRXfxxYqD4RNpeE2k,https://api.spotify.com/v1/tracks/17HRPvRXfxxYqD4RNpeE2k,0.0489,0.625,0.532,0,0.388,-10.838,0.0364,140.164,0.24
+Memories,Maroon 5,4cktbXiXOapiLBMprHFErI,https://api.spotify.com/v1/tracks/4cktbXiXOapiLBMprHFErI,0.841,0.775,0.327,0,0.0821,-7.241,0.0557,91.05,0.595
+Graveyard,Halsey,2ufmtcIFdFpuUYBPXK5f67,https://api.spotify.com/v1/tracks/2ufmtcIFdFpuUYBPXK5f67,0.231,0.667,0.583,4.48E-05,0.181,-5.127,0.0747,92.043,0.187
+Dance Monkey,Tones And I,2XU0oxnq2qxCpomAAuJY8K,https://api.spotify.com/v1/tracks/2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,0.588,0.000104,0.149,-6.4,0.0924,98.027,0.513
+Bad Karma,Axel Thesleff,5ZVujHtwnsqFJvLnqRSdch,https://api.spotify.com/v1/tracks/5ZVujHtwnsqFJvLnqRSdch,0.0131,0.7,0.546,0.0305,0.172,-7.705,0.109,80.004,0.302
+everything i wanted,Billie Eilish,3ZCTVFBt2Brf31RLEnCkWJ,https://api.spotify.com/v1/tracks/3ZCTVFBt2Brf31RLEnCkWJ,0.902,0.704,0.225,0.657,0.106,-14.454,0.0994,120.006,0.243
+Despacito - Remix,Luis Fonsi,4bKlEyObn16bFmJMNd0Zt6,https://api.spotify.com/v1/tracks/4bKlEyObn16bFmJMNd0Zt6,0.243,0.688,0.812,0,0.0742,-4.355,0.135,89.01,0.834
+La La La - Kaos Remix [Bonus Track],Naughty Boy,5T4OIa9q7wntvYo5S6M8OD,https://api.spotify.com/v1/tracks/5T4OIa9q7wntvYo5S6M8OD,0.128,0.603,0.821,0.00287,0.134,-3.698,0.0836,145.054,0.688
+Fight Back,NEFFEX,6KigD0mlF4VGDYiSEzAyYw,https://api.spotify.com/v1/tracks/6KigD0mlF4VGDYiSEzAyYw,0.094,0.716,0.946,6.63E-05,0.0825,-3.412,0.261,139.943,0.587
+Older,Sasha Alex Sloan,52iLDrSoRtf9lcgFuLVfqE,https://api.spotify.com/v1/tracks/52iLDrSoRtf9lcgFuLVfqE,0.743,0.681,0.292,0,0.0974,-9.599,0.0483,64.002,0.162
+Movie,Tom Misch,6pxElwU80zhjbCC77Vn8EI,https://api.spotify.com/v1/tracks/6pxElwU80zhjbCC77Vn8EI,0.391,0.785,0.379,0.0161,0.267,-11.446,0.0732,122.043,0.182
+My All Time,Ray & Ray,2M9T9sHGfR6LdtEwIpGf1e,https://api.spotify.com/v1/tracks/2M9T9sHGfR6LdtEwIpGf1e,0.723,0.649,0.431,0.00189,0.106,-8.207,0.028,92.003,0.354
+Imaginary Friends,oomiee,05ei6SRdXCYEWrD8mVoPrO,https://api.spotify.com/v1/tracks/05ei6SRdXCYEWrD8mVoPrO,0.859,0.712,0.411,0.231,0.35,-12.018,0.274,85.028,0.428
+Girl That Was Perfect,Alina Smith,2MYdIn8tGdJBMCgFcsOBbl,https://api.spotify.com/v1/tracks/2MYdIn8tGdJBMCgFcsOBbl,0.127,0.663,0.556,7.11E-05,0.144,-8.307,0.0586,136.028,0.497
+When This Is Over,Dabin,6uWjyVRDBaTnYGleHuQ19Q,https://api.spotify.com/v1/tracks/6uWjyVRDBaTnYGleHuQ19Q,0.0193,0.609,0.639,6.29E-06,0.0623,-6.239,0.0297,129.976,0.435
+U & Me,ILLENIUM,2umqe74ItZBWCdChsHtXjQ,https://api.spotify.com/v1/tracks/2umqe74ItZBWCdChsHtXjQ,0.0128,0.563,0.837,0.00922,0.0401,-5.025,0.0457,88.02,0.631
+Counting Stars,OneRepublic,2tpWsVSb9UEmDRxAl1zhX1,https://api.spotify.com/v1/tracks/2tpWsVSb9UEmDRxAl1zhX1,0.0654,0.664,0.705,0,0.118,-4.972,0.0382,122.016,0.477
+Call Me Maybe,Carly Rae Jepsen,20I6sIOMTCkB6w7ryavxtO,https://api.spotify.com/v1/tracks/20I6sIOMTCkB6w7ryavxtO,0.0114,0.783,0.58,2.28E-06,0.108,-6.548,0.0408,120.021,0.66
+TiK ToK,Kesha,0HPD5WQqrq7wPWR7P7Dw1i,https://api.spotify.com/v1/tracks/0HPD5WQqrq7wPWR7P7Dw1i,0.0991,0.755,0.837,0,0.289,-2.718,0.142,120.028,0.714
+Timber (feat. Ke$ha),Pitbull,3cHyrEgdyYRjgJKSOiOtcS,https://api.spotify.com/v1/tracks/3cHyrEgdyYRjgJKSOiOtcS,0.0295,0.581,0.963,0,0.139,-4.087,0.0981,129.992,0.788
+Rain Over Me (feat. Marc Anthony) - Benny Benassi Remix,Pitbull,6GPER1Sx8MrBiwWxdulg5Q,https://api.spotify.com/v1/tracks/6GPER1Sx8MrBiwWxdulg5Q,0.0434,0.575,0.78,2.91E-06,0.0666,-1.726,0.276,129.917,0.263
+Dark Horse - Instrumental Version,Daytuner,4QXryClJF5XLXqJTNarSUp,https://api.spotify.com/v1/tracks/4QXryClJF5XLXqJTNarSUp,0.000158,0.686,0.417,0.24,0.137,-8.465,0.0298,131.991,0.141
+Roar,Katy Perry,27tNWlhdAryQY04Gb2ZhUI,https://api.spotify.com/v1/tracks/27tNWlhdAryQY04Gb2ZhUI,0.00492,0.671,0.771,7.28E-06,0.354,-4.821,0.0316,90.003,0.436
+California Gurls (Made Popular By Katy Perry ft. Snoop Dogg) [Vocal Version],Party Tyme Karaoke,410Bh7pEXzPPvnv1ZX8iuH,https://api.spotify.com/v1/tracks/410Bh7pEXzPPvnv1ZX8iuH,0.0165,0.791,0.491,2.06E-06,0.0774,-9.291,0.0612,125.051,0.75
+Glad You Came,The Wanted,5yDL13y5giogKs2fSNf7sj,https://api.spotify.com/v1/tracks/5yDL13y5giogKs2fSNf7sj,0.0319,0.722,0.851,0,0.108,-3.873,0.0639,126.885,0.452
+Poker Face,Lady Gaga,1QV6tiMFM6fSOKOGLMHYYg,https://api.spotify.com/v1/tracks/1QV6tiMFM6fSOKOGLMHYYg,0.118,0.851,0.806,1.64E-06,0.121,-4.62,0.0787,118.999,0.787
+Hot N Cold,Katy Perry,0iGckQFyv6svOfAbAY9aWJ,https://api.spotify.com/v1/tracks/0iGckQFyv6svOfAbAY9aWJ,7.95E-05,0.706,0.841,0,0.0688,-3.956,0.0418,132.032,0.861
+Just Dance,Lady Gaga,1dzQoRqT5ucxXVaAhTcT0J,https://api.spotify.com/v1/tracks/1dzQoRqT5ucxXVaAhTcT0J,0.0264,0.822,0.739,4.26E-05,0.181,-4.541,0.0311,118.992,0.745
+Teenage Dream,Katy Perry,235LXPXfi0SmOaS9TaCh3c,https://api.spotify.com/v1/tracks/235LXPXfi0SmOaS9TaCh3c,0.0162,0.719,0.798,2.34E-06,0.134,-4.582,0.0361,120.011,0.591
+Wide Awake,Katy Perry,5JLv62qFIS1DR3zGEcApRt,https://api.spotify.com/v1/tracks/5JLv62qFIS1DR3zGEcApRt,0.0749,0.514,0.683,2.64E-06,0.392,-5.099,0.0367,159.814,0.575
+Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),Shakira,2Cd9iWfcOpGDHLz6tVA3G4,https://api.spotify.com/v1/tracks/2Cd9iWfcOpGDHLz6tVA3G4,0.00627,0.766,0.873,0,0.0764,-6.381,0.143,126.988,0.743
+Drops of Jupiter (Tell Me),Train,2hKdd3qO7cWr2Jo0Bcs0MA,https://api.spotify.com/v1/tracks/2hKdd3qO7cWr2Jo0Bcs0MA,0.153,0.481,0.638,0,0.154,-5.862,0.0276,79.064,0.497
+How to Save a Life,The Fray,5fVZC9GiM4e8vu99W0Xf6J,https://api.spotify.com/v1/tracks/5fVZC9GiM4e8vu99W0Xf6J,0.269,0.64,0.743,0,0.101,-4.08,0.0379,122.035,0.361
+Rock with You - Single Version,Michael Jackson,7oOOI85fVQvVnK5ynNMdW7,https://api.spotify.com/v1/tracks/7oOOI85fVQvVnK5ynNMdW7,0.179,0.808,0.535,9.91E-05,0.158,-12.521,0.0353,114.031,0.848
+Bad Romance,Lady Gaga,0SiywuOBRcynK0uKGWdCnn,https://api.spotify.com/v1/tracks/0SiywuOBRcynK0uKGWdCnn,0.00314,0.696,0.921,5.24E-05,0.0842,-3.755,0.0363,119.001,0.714
+Last Friday Night (T.G.I.F.),Katy Perry,4lfWtdcKvEeK3Olo0BVvlA,https://api.spotify.com/v1/tracks/4lfWtdcKvEeK3Olo0BVvlA,0.00124,0.65,0.817,1.14E-05,0.658,-3.826,0.0441,126.024,0.728
+Royals,Lorde,2dLLR6qlu5UJ5gk0dKz0h3,https://api.spotify.com/v1/tracks/2dLLR6qlu5UJ5gk0dKz0h3,0.121,0.674,0.428,0,0.132,-9.504,0.122,84.878,0.337
+Dynamite,Taio Cruz,2CEgGE6aESpnmtfiZwYlbV,https://api.spotify.com/v1/tracks/2CEgGE6aESpnmtfiZwYlbV,0.00379,0.751,0.783,0,0.036,-3.724,0.0859,119.975,0.816
+Party Rock Anthem - DJ Enferno Remix,LMFAO,1ns4Mv2zzbhElbSLMaO2QG,https://api.spotify.com/v1/tracks/1ns4Mv2zzbhElbSLMaO2QG,0.0128,0.764,0.782,6.61E-06,0.513,-5.169,0.0664,129.993,0.846
+Party In The U.S.A.,Miley Cyrus,3E7dfMvvCLUddWissuqMwr,https://api.spotify.com/v1/tracks/3E7dfMvvCLUddWissuqMwr,0.00112,0.652,0.698,0.000115,0.0886,-4.667,0.042,96.021,0.47
+Bring Me To Life,Evanescence,0COqiPhxzoWICwFCS4eZcp,https://api.spotify.com/v1/tracks/0COqiPhxzoWICwFCS4eZcp,0.00721,0.331,0.943,2.06E-06,0.242,-3.188,0.0698,94.612,0.296
+Viva La Vida,Coldplay,1mea3bSkSGXuIRvnydlB5b,https://api.spotify.com/v1/tracks/1mea3bSkSGXuIRvnydlB5b,0.0954,0.486,0.617,3.23E-06,0.109,-7.115,0.0287,138.015,0.417
+We Are Young,fun.,5j9hAu06TRLn3RCF0GDgCI,https://api.spotify.com/v1/tracks/5j9hAu06TRLn3RCF0GDgCI,0.0197,0.379,0.637,7.87E-05,0.0849,-5.574,0.0745,184.087,0.757
+Ophelia,The Lumineers,5NORWMFC27ywGSZxi8uquP,https://api.spotify.com/v1/tracks/5NORWMFC27ywGSZxi8uquP,0.613,0.664,0.573,0.000363,0.0857,-6.519,0.0277,76.023,0.566
+Safe And Sound - DiscoTech Remix,Capital Cities,2VnAiO8sum4aiZNv2TAusc,https://api.spotify.com/v1/tracks/2VnAiO8sum4aiZNv2TAusc,0.0192,0.72,0.809,0.000205,0.0991,-4.591,0.0359,121.991,0.659
+Pompeii,Bastille,6fNhZRFEkBfgW39W3wKARJ,https://api.spotify.com/v1/tracks/6fNhZRFEkBfgW39W3wKARJ,0.0755,0.679,0.715,0,0.271,-6.383,0.0407,127.435,0.571
+Fireflies,Owl City,3DamFFqW32WihKkTVlwTYQ,https://api.spotify.com/v1/tracks/3DamFFqW32WihKkTVlwTYQ,0.0275,0.512,0.662,0,0.118,-6.797,0.0439,180.114,0.472
+Little Talks - Acoustic,Of Monsters and Men,6eKxvBVdLLYOpAwlu6yKte,https://api.spotify.com/v1/tracks/6eKxvBVdLLYOpAwlu6yKte,0.263,0.375,0.401,0,0.0818,-7.21,0.0351,103.787,0.362
+The Power of Love,Céline Dion,5kK1Iru9ogP3Iy1zsANU1n,https://api.spotify.com/v1/tracks/5kK1Iru9ogP3Iy1zsANU1n,0.36,0.546,0.519,0.00046,0.24,-9.072,0.0291,140.054,0.247
+How Am I Supposed to Live Without You,Michael Bolton,3RMeOetCdXttthQK0clPuz,https://api.spotify.com/v1/tracks/3RMeOetCdXttthQK0clPuz,0.191,0.541,0.44,0,0.114,-12.206,0.031,140.273,0.232
+Stereo Hearts,La Mer,5Luj3g57bkFA1kbwcBZ4VG,https://api.spotify.com/v1/tracks/5Luj3g57bkFA1kbwcBZ4VG,0.0925,0.698,0.898,0,0.346,-3.579,0.187,89.911,0.667
+Problem (Made Popular By Ariana Grande ft. Iggy Azalea) [Vocal Version],Party Tyme Karaoke,4LiNa6kNXMzGQsBOtUvhHO,https://api.spotify.com/v1/tracks/4LiNa6kNXMzGQsBOtUvhHO,0.0055,0.714,0.71,0.000244,0.109,-9.087,0.209,103.024,0.679
+International Love (Made Popular By Pitbull ft. Chris Brown) [Instrumental Version],Party Tyme Karaoke,2MZgH2ihPiufRFyOlUtwUX,https://api.spotify.com/v1/tracks/2MZgH2ihPiufRFyOlUtwUX,5.13E-05,0.659,0.641,0.7,0.164,-11.362,0.0452,119.996,0.587
+"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",Pitbull,1IJYb2qBTHMoDzHgsuA86H,https://api.spotify.com/v1/tracks/1IJYb2qBTHMoDzHgsuA86H,0.182,0.673,0.932,1.93E-06,0.303,-3.252,0.164,129.029,0.536
+Feel This Moment (Made Popular By Pitbull ft. Christina Aguilera) [Instrumental Version],Party Tyme Karaoke,3ovNHN1aBEbYLxWN2ZEvMq,https://api.spotify.com/v1/tracks/3ovNHN1aBEbYLxWN2ZEvMq,0.00579,0.779,0.618,0.61,0.174,-9.371,0.0838,128.999,0.13
+This Feeling (Originally Performed by the Chainsmokers Ft. Kelsea Ballerini) - Instrumental Version,Hit The Button Karaoke,3NpegsKVJby5QmZ1A7sRpz,https://api.spotify.com/v1/tracks/3NpegsKVJby5QmZ1A7sRpz,0.212,0.783,0.233,0.953,0.0786,-15.459,0.0429,105.028,0.159
+The Final Countdown,Europe,3MrRksHupTVEQ7YbA0FsZK,https://api.spotify.com/v1/tracks/3MrRksHupTVEQ7YbA0FsZK,0.0628,0.529,0.843,0.000827,0.0608,-6.908,0.0616,117.662,0.188
+Way Back Home,SHAUN,3NxuezMdSLgt4OwHzBoUhL,https://api.spotify.com/v1/tracks/3NxuezMdSLgt4OwHzBoUhL,0.405,0.745,0.739,0.000183,0.127,-4.591,0.0327,99.913,0.556
+Kiss and Make Up,Dua Lipa,7jr3iPu4O4bTCVwLMbdU2i,https://api.spotify.com/v1/tracks/7jr3iPu4O4bTCVwLMbdU2i,0.0658,0.678,0.729,0,0.303,-4.188,0.137,99.895,0.643
+Our Summer,TOMORROW X TOGETHER,22PEycypPsZpzlMxTgukiQ,https://api.spotify.com/v1/tracks/22PEycypPsZpzlMxTgukiQ,0.00271,0.739,0.571,0,0.165,-5.53,0.0323,107.98,0.267
+Start Over,Gaho,3e4tHEcyzEtngkCw8ZBSMS,https://api.spotify.com/v1/tracks/3e4tHEcyzEtngkCw8ZBSMS,0.172,0.591,0.818,0,0.126,-3.532,0.073,108.107,0.574
+Help Me,(G)I-DLE,7lZqVyqbMtx4O1lrJCvRH0,https://api.spotify.com/v1/tracks/7lZqVyqbMtx4O1lrJCvRH0,0.144,0.778,0.688,1.22E-05,0.372,-5.133,0.0324,117.513,0.426
+Future,Red Velvet,2gvlPqqngL3BppFCwLXnVc,https://api.spotify.com/v1/tracks/2gvlPqqngL3BppFCwLXnVc,0.438,0.717,0.868,0,0.148,-3.073,0.04,100.005,0.552
+Running,Gaho,3t0Dw9zYFXK4ezJxbM3rbj,https://api.spotify.com/v1/tracks/3t0Dw9zYFXK4ezJxbM3rbj,0.203,0.572,0.85,0,0.313,-3.112,0.0558,139.986,0.608
+Hola Hola,KARD,3VC1IEz9M1txlMSx3h3tPM,https://api.spotify.com/v1/tracks/3VC1IEz9M1txlMSx3h3tPM,0.0135,0.843,0.807,6.44E-05,0.227,-3.794,0.0632,104.962,0.833
+STAY (with Justin Bieber),The Kid LAROI,5HCyWlXZPP0y6Gqq8TgA20,https://api.spotify.com/v1/tracks/5HCyWlXZPP0y6Gqq8TgA20,0.0383,0.591,0.764,0,0.103,-5.484,0.0483,169.928,0.478
+Worth It (feat. Kid Ink),Fifth Harmony,41Fflg7qHiVOD6dEPvsCzO,https://api.spotify.com/v1/tracks/41Fflg7qHiVOD6dEPvsCzO,0.063,0.884,0.765,7.04E-06,0.118,-3.865,0.0882,99.987,0.594
+My Head & My Heart,Ava Max,1KixkQVDUHggZMU9dUobgm,https://api.spotify.com/v1/tracks/1KixkQVDUHggZMU9dUobgm,0.0697,0.614,0.934,0,0.121,-3.709,0.07,116.001,0.436
+Dancing In The Moonlight (feat. NEIMY),Jubël,4GSDkZt7GcmzBWmsMcpaVO,https://api.spotify.com/v1/tracks/4GSDkZt7GcmzBWmsMcpaVO,0.27,0.659,0.615,0,0.187,-5.865,0.0644,119.843,0.193
+Don't You Worry Child - Radio Edit,Swedish House Mafia,2V65y3PX4DkRhy1djlxd9p,https://api.spotify.com/v1/tracks/2V65y3PX4DkRhy1djlxd9p,0.112,0.612,0.84,0,0.116,-3.145,0.0509,129.042,0.438
+Lean On,Major Lazer,1Lim1Py7xBgbAkAys3AGAG,https://api.spotify.com/v1/tracks/1Lim1Py7xBgbAkAys3AGAG,0.00346,0.723,0.809,0.00123,0.565,-3.081,0.0625,98.007,0.274
+Wake Me Up,Avicii,0nrRP2bk19rLc0orkWPQk2,https://api.spotify.com/v1/tracks/0nrRP2bk19rLc0orkWPQk2,0.0038,0.532,0.783,0.0012,0.161,-5.697,0.0523,124.08,0.643
+Faded,Alan Walker,698ItKASDavgwZ3WjaWjtz,https://api.spotify.com/v1/tracks/698ItKASDavgwZ3WjaWjtz,0.0281,0.468,0.627,7.97E-06,0.11,-5.085,0.0476,179.642,0.159
+A Song Written Easily,ONEUS,5KqOPtE8nhYtgcXzrIt6N0,https://api.spotify.com/v1/tracks/5KqOPtE8nhYtgcXzrIt6N0,0.147,0.696,0.843,0,0.103,-2.397,0.0588,98.01,0.678
+Wolves,Selena Gomez,0tBbt8CrmxbjRP0pueQkyU,https://api.spotify.com/v1/tracks/0tBbt8CrmxbjRP0pueQkyU,0.124,0.724,0.804,0,0.204,-4.614,0.0448,124.987,0.306
+Closer,The Chainsmokers,7BKLCZ1jbUBVqRi2FVlTVw,https://api.spotify.com/v1/tracks/7BKLCZ1jbUBVqRi2FVlTVw,0.414,0.748,0.524,0,0.111,-5.599,0.0338,95.01,0.661
+hot girl bummer,blackbear,2mt1IqcFyY1zmYZT8Q3xw9,https://api.spotify.com/v1/tracks/2mt1IqcFyY1zmYZT8Q3xw9,0.125,0.782,0.559,0,0.385,-7.106,0.0767,129.992,0.685
+La Da Dee,Cody Simpson,0ccwMrlZONy5yXrirq7lTe,https://api.spotify.com/v1/tracks/0ccwMrlZONy5yXrirq7lTe,0.00847,0.657,0.828,0,0.326,-5.544,0.0728,115.954,0.566
+The Nights,Avicii,0ct6r3EGTcMLPtrXHDvVjc,https://api.spotify.com/v1/tracks/0ct6r3EGTcMLPtrXHDvVjc,0.0166,0.527,0.835,0,0.249,-5.298,0.0433,125.983,0.654
+Rise,Jonas Blue,5ZSl6gDoV6bPPxzmLeneV9,https://api.spotify.com/v1/tracks/5ZSl6gDoV6bPPxzmLeneV9,0.327,0.687,0.785,0,0.203,-4.65,0.0333,106.046,0.655
+Bang!,AJR,2I2AqFb0f9UNnolWc2MafC,https://api.spotify.com/v1/tracks/2I2AqFb0f9UNnolWc2MafC,0.0153,0.736,0.526,0,0.0628,-6.462,0.0566,139.84,0.654
+Head & Heart (feat. MNEK),Joel Corry,6cx06DFPPHchuUAcTxznu9,https://api.spotify.com/v1/tracks/6cx06DFPPHchuUAcTxznu9,0.168,0.734,0.874,1.14E-05,0.0489,-3.158,0.0662,122.953,0.905
+Beautiful Mistakes (feat. Megan Thee Stallion),Maroon 5,6fRxMU4LWwyaSSowV441IU,https://api.spotify.com/v1/tracks/6fRxMU4LWwyaSSowV441IU,0.0377,0.713,0.676,0,0.154,-5.483,0.027,99.048,0.721
+I Like Me Better,Lauv,2P91MQbaiQOfbiz9VqhqKQ,https://api.spotify.com/v1/tracks/2P91MQbaiQOfbiz9VqhqKQ,0.535,0.752,0.505,2.55E-06,0.104,-7.621,0.253,91.97,0.419
+Higher (feat. iann dior),Clean Bandit,4OoYfejHABzYe2mG8p5s8b,https://api.spotify.com/v1/tracks/4OoYfejHABzYe2mG8p5s8b,0.336,0.716,0.736,1.40E-05,0.137,-5.18,0.0363,104.018,0.542
+Shelter,Porter Robinson,2CgOd0Lj5MuvOqzqdaAXtS,https://api.spotify.com/v1/tracks/2CgOd0Lj5MuvOqzqdaAXtS,0.00293,0.276,0.796,0,0.184,-4.499,0.0579,199.526,0.26
+Sleepyhead,Passion Pit,3ZUMC5OazTA8QtLpdlPdz9,https://api.spotify.com/v1/tracks/3ZUMC5OazTA8QtLpdlPdz9,0.425,0.575,0.971,3.40E-06,0.105,-3.261,0.11,106.052,0.764
+Dreams pt. II,Lost Sky,6hwF25W29VOWw1nZ76EAXY,https://api.spotify.com/v1/tracks/6hwF25W29VOWw1nZ76EAXY,0.0257,0.52,0.882,0.000128,0.112,-4.813,0.0363,144.937,0.511
+Merry Christmas,Ed Sheeran,3bH2Eu9A9ymI4UnGHRmoXg,https://api.spotify.com/v1/tracks/3bH2Eu9A9ymI4UnGHRmoXg,0.243,0.594,0.935,2.36E-06,0.102,-2.018,0.0357,113.99,0.602
+Nightlight,ILLENIUM,06kxa3al7bUqRRo5nAFduZ,https://api.spotify.com/v1/tracks/06kxa3al7bUqRRo5nAFduZ,0.0819,0.494,0.651,0,0.104,-4.127,0.0384,149.979,0.162
+Rain On Me (with Ariana Grande),Lady Gaga,24ySl2hOPGCDcxBxFIqWBu,https://api.spotify.com/v1/tracks/24ySl2hOPGCDcxBxFIqWBu,0.021,0.672,0.855,0,0.323,-3.764,0.0397,123.056,0.646
+INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,27NovPIUIRrOZoCHxABJwK,https://api.spotify.com/v1/tracks/27NovPIUIRrOZoCHxABJwK,0.0203,0.736,0.704,0,0.0501,-7.409,0.0615,149.995,0.894
+What Will It Be of Us,Alder,6dcGW1inV0BGDiGqXkj3yq,https://api.spotify.com/v1/tracks/6dcGW1inV0BGDiGqXkj3yq,0.453,0.606,0.717,2.37E-05,0.164,-6.073,0.0721,124.985,0.561
+Deserve It,BLAEKER,2okBmX9C0gpKch4YaNiMLs,https://api.spotify.com/v1/tracks/2okBmX9C0gpKch4YaNiMLs,0.0028,0.634,0.691,9.08E-06,0.111,-6.456,0.0441,134.961,0.467
+Flip It,Killrude,2F6jPYNKIYoO5HO0I1UXQL,https://api.spotify.com/v1/tracks/2F6jPYNKIYoO5HO0I1UXQL,0.000771,0.575,0.912,0.774,0.893,-6.095,0.028,140.021,0.487
+Broken,Joshua Myler,2hmlTEwLi1rLL0q2kgvZq4,https://api.spotify.com/v1/tracks/2hmlTEwLi1rLL0q2kgvZq4,0.163,0.662,0.729,5.95E-06,0.0688,-6.346,0.0797,160.005,0.285
+These Walls (feat. Tim Riehm),Arcando,2x6osQWSOA7O1623IPQ0Wc,https://api.spotify.com/v1/tracks/2x6osQWSOA7O1623IPQ0Wc,0.373,0.679,0.822,0,0.134,-5.168,0.245,90.011,0.362
+On My Own,Far Out,73eIguwwgu2C7jBz89b7SX,https://api.spotify.com/v1/tracks/73eIguwwgu2C7jBz89b7SX,0.125,0.403,0.779,7.62E-05,0.385,-2.966,0.0536,145.092,0.103
+Caramelldansen,Caramella Girls,7MwwPyZJ7UKFROj2oVnH6R,https://api.spotify.com/v1/tracks/7MwwPyZJ7UKFROj2oVnH6R,0.0136,0.602,0.999,0.617,0.341,-5.236,0.0956,164.822,0.789
+Ai Mang Cô Đơn Đi,K-ICM,1EPSczm2VQjyxTQ8DMRQ7Y,https://api.spotify.com/v1/tracks/1EPSczm2VQjyxTQ8DMRQ7Y,0.526,0.551,0.607,7.03E-05,0.0862,-7.085,0.0377,169.924,0.451

@@ -7,3 +7,6 @@ The API returns 9 audio features for each track because of the huge dimensionali
 
 We will use K-Means Clustering Algorithm to classify tracks into similar clusters. We will use an elbow chart to determine k, the number of clusters that the K-Means algorithm will use.
 
+### Results
+![3D Representation](https://github.com/josh-truong/spotify-kmeans/blob/main/demo.png)
+![2D Representation](https://github.com/josh-truong/spotify-kmeans/blob/main/PCA%202D%20Clusters.png)
